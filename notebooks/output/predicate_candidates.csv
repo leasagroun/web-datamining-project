@@ -1,0 +1,6 @@
+local_predicate,local_uri,alignment_type,wikidata_id,wikidata_label,status,rationale
+relatedTo,http://ai-kb.local/ontology/relatedTo,subProperty,P1659,see also,VALIDATED,"co-occurrence extraction → generic relation, sub-property of P1659"
+affiliatedWith,http://ai-kb.local/ontology/affiliatedWith,equivalent,P1416,affiliation,VALIDATED,affiliatedWith ≡ wdt:P1416 (affiliation)
+worksAt,http://ai-kb.local/ontology/worksAt,equivalent,P108,employer,VALIDATED,worksAt ≡ wdt:P108 (employer)
+authorOf,http://ai-kb.local/ontology/authorOf,equivalent,P50,author,VALIDATED,authorOf ≡ wdt:P50 (author) — inverse of the standard property
+locatedIn,http://ai-kb.local/ontology/locatedIn,equivalent,P17,country,VALIDATED,locatedIn ≡ wdt:P17 (country) for organizations

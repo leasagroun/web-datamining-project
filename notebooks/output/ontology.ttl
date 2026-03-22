@@ -1,0 +1,84 @@
+@prefix onto: <http://ai-kb.local/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+onto: a owl:Ontology ;
+    rdfs:label "AI Research Knowledge Base Ontology"@en ;
+    rdfs:comment "Ontology for the AI Research domain KB, built from web-mined data."@en .
+
+onto:Date a owl:Class ;
+    rdfs:label "Date"@en ;
+    rdfs:comment "A temporal reference (year, period)"@en .
+
+onto:affiliatedWith a owl:ObjectProperty ;
+    rdfs:label "affiliatedWith"@en ;
+    rdfs:comment "Person affiliated with an organization"@en ;
+    rdfs:domain onto:Person ;
+    rdfs:range onto:Organization .
+
+onto:authorOf a owl:ObjectProperty ;
+    rdfs:label "authorOf"@en ;
+    rdfs:comment "Person is author of a research paper"@en ;
+    rdfs:domain onto:Person ;
+    rdfs:range onto:ResearchPaper .
+
+onto:educatedAt a owl:ObjectProperty ;
+    rdfs:label "educatedAt"@en ;
+    rdfs:comment "Person was educated at an organization"@en ;
+    rdfs:domain onto:Person ;
+    rdfs:range onto:Organization .
+
+onto:extractedFrom a owl:DatatypeProperty ;
+    rdfs:label "extractedFrom"@en ;
+    rdfs:comment "Source URL of the web page from which the entity was extracted"@en ;
+    rdfs:range xsd:anyURI .
+
+onto:locatedIn a owl:ObjectProperty ;
+    rdfs:label "locatedIn"@en ;
+    rdfs:comment "Organization located in a geopolitical entity"@en ;
+    rdfs:domain onto:Organization ;
+    rdfs:range onto:GeopoliticalEntity .
+
+onto:receivedAward a owl:ObjectProperty ;
+    rdfs:label "receivedAward"@en ;
+    rdfs:comment "Person received an award"@en ;
+    rdfs:domain onto:Person ;
+    rdfs:range onto:Award .
+
+onto:relatedTo a owl:ObjectProperty ;
+    rdfs:label "relatedTo"@en ;
+    rdfs:comment "Generic relation from co-occurrence extraction"@en .
+
+onto:worksAt a owl:ObjectProperty ;
+    rdfs:label "worksAt"@en ;
+    rdfs:comment "Person works at an organization"@en ;
+    rdfs:domain onto:Person ;
+    rdfs:range onto:Organization .
+
+onto:Award a owl:Class ;
+    rdfs:label "Award"@en ;
+    rdfs:comment "An academic or professional award"@en ;
+    rdfs:subClassOf schema:Award .
+
+onto:GeopoliticalEntity a owl:Class ;
+    rdfs:label "GeopoliticalEntity"@en ;
+    rdfs:comment "A country, city, or region"@en ;
+    rdfs:subClassOf schema:Place .
+
+onto:ResearchPaper a owl:Class ;
+    rdfs:label "ResearchPaper"@en ;
+    rdfs:comment "A published academic paper or preprint"@en ;
+    rdfs:subClassOf schema:ScholarlyArticle .
+
+onto:Organization a owl:Class ;
+    rdfs:label "Organization"@en ;
+    rdfs:comment "A research institution, company, or university"@en ;
+    rdfs:subClassOf schema:Organization .
+
+onto:Person a owl:Class ;
+    rdfs:label "Person"@en ;
+    rdfs:comment "A human researcher or scientist"@en ;
+    rdfs:subClassOf schema:Person .
+

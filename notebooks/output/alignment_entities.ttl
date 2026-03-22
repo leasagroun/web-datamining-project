@@ -1,0 +1,579 @@
+@prefix local: <http://ai-kb.local/entity/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+local:Abadi owl:sameAs wd:Q123874796 .
+
+local:AdamPearce owl:sameAs wd:Q2823989 .
+
+local:Adebayo owl:sameAs wd:Q4681466 .
+
+local:AdityaRamesh owl:sameAs wd:Q135241027 .
+
+local:Adolphs owl:sameAs wd:Q83338543 .
+
+local:Agarwal owl:sameAs wd:Q36906535 .
+
+local:Aggarwal owl:sameAs wd:Q37458193 .
+
+local:Aila owl:sameAs wd:Q405000 .
+
+local:Akkaya owl:sameAs wd:Q56244850 .
+
+local:Alber owl:sameAs wd:Q48721926 .
+
+local:Alec owl:sameAs wd:Q18171804 .
+
+local:AlecRadford owl:sameAs wd:Q29180956 .
+
+local:AlexRay owl:sameAs wd:Q110772076 .
+
+local:AmericanAssociationForTheAdvancementOfScience owl:sameAs wd:Q40358 .
+
+local:Ameya owl:sameAs wd:Q110290904 .
+
+local:Andrychowicz owl:sameAs wd:Q118089445 .
+
+local:Anguelov owl:sameAs wd:Q37025722 .
+
+local:Arxiv owl:sameAs wd:Q118398 .
+
+local:Atari owl:sameAs wd:Q207922 .
+
+local:Balaraman owl:sameAs wd:Q37182249 .
+
+local:BalaramanRavindran owl:sameAs wd:Q102342713 .
+
+local:Barrett owl:sameAs wd:Q27220872 .
+
+local:Bau owl:sameAs wd:Q12475386 .
+
+local:Beattie owl:sameAs wd:Q21508621 .
+
+local:Belkin owl:sameAs wd:Q21508636 .
+
+local:Bengio owl:sameAs wd:Q62619701 .
+
+local:Berges owl:sameAs wd:Q12785740 .
+
+local:Brockman owl:sameAs wd:Q16860484 .
+
+local:Brox owl:sameAs wd:Q21507002 .
+
+local:Bruna owl:sameAs wd:Q20000363 .
+
+local:Cammarata owl:sameAs wd:Q431276 .
+
+local:Carter owl:sameAs wd:Q16101731 .
+
+local:Castaneda owl:sameAs wd:Q37534079 .
+
+local:Castro owl:sameAs wd:Q1049855 .
+
+local:ChaitanyaKJoshi owl:sameAs wd:Q135166013 .
+
+local:Chan owl:sameAs wd:Q29011444 .
+
+local:Chang owl:sameAs wd:Q36931387 .
+
+local:Cheung owl:sameAs wd:Q5094229 .
+
+local:Chociej owl:sameAs wd:Q118066099 .
+
+local:Chris owl:sameAs wd:Q339346 .
+
+local:ChrisOlah owl:sameAs wd:Q50358648 .
+
+local:ChristopherHesse owl:sameAs wd:Q136565233 .
+
+local:Clark owl:sameAs wd:Q1119151 .
+
+local:Clune owl:sameAs wd:Q21507430 .
+
+local:Cnn owl:sameAs wd:Q48340 .
+
+local:Cnns rdfs:label "CNNS"@en ;
+    owl:sameAs wd:Q77877999 .
+
+local:Cobbe owl:sameAs wd:Q21507433 .
+
+local:Cogswell owl:sameAs wd:Q56244680 .
+
+local:Colab rdfs:label "CoLab"@en ;
+    owl:sameAs wd:Q124064224 .
+
+local:Collobert owl:sameAs wd:Q98207928 .
+
+local:Corr rdfs:label "Corr"@en ;
+    owl:sameAs wd:Q21483046 .
+
+local:Courville owl:sameAs wd:Q598449 .
+
+local:Crespi owl:sameAs wd:Q28811016 .
+
+local:CurrentBiology owl:sameAs wd:Q1144851 .
+
+local:Czarnecki owl:sameAs wd:Q27824009 .
+
+local:Dahne owl:sameAs wd:Q37007847 .
+
+local:DanielZiegler owl:sameAs wd:Q115923540 .
+
+local:DanielaAmodei owl:sameAs wd:Q119721378 .
+
+local:DarioAmodei owl:sameAs wd:Q103335665 .
+
+local:Das owl:sameAs wd:Q13553622 .
+
+local:DavidNichols owl:sameAs wd:Q100890957 .
+
+local:Debiak owl:sameAs wd:Q118071366 .
+
+local:Deng owl:sameAs wd:Q2578531 .
+
+local:Deshmukh owl:sameAs wd:Q21502265 .
+
+local:Dhariwal owl:sameAs wd:Q37168058 .
+
+local:Dicarlo owl:sameAs wd:Q85756731 .
+
+local:Distill owl:sameAs wd:Q36437840 .
+
+local:Dodge owl:sameAs wd:Q16275547 .
+
+local:Dong owl:sameAs wd:Q3036254 .
+
+local:Doron owl:sameAs wd:Q16550556 .
+
+local:Drew owl:sameAs wd:Q19819740 .
+
+local:Dunning owl:sameAs wd:Q21484695 .
+
+local:Ehinger owl:sameAs wd:Q37462616 .
+
+local:Elsevier owl:sameAs wd:Q746413 .
+
+local:Engstrom owl:sameAs wd:Q36862790 .
+
+local:Erhan owl:sameAs wd:Q20000089 .
+
+local:Everingham owl:sameAs wd:Q5417266 .
+
+local:Facebook owl:sameAs wd:Q355 .
+
+local:Farhi owl:sameAs wd:Q56244651 .
+
+local:Fergus owl:sameAs wd:Q9301693 .
+
+local:Fern owl:sameAs wd:Q1406445 .
+
+local:Firoiu owl:sameAs wd:Q107218855 .
+
+local:Fong owl:sameAs wd:Q37052386 .
+
+local:Fried owl:sameAs wd:Q28758139 .
+
+local:Gabe owl:sameAs wd:Q21146008 .
+
+local:Gabriel owl:sameAs wd:Q4925914 .
+
+local:GabrielGoh owl:sameAs wd:Q50359458 .
+
+local:Gaina owl:sameAs wd:Q11732195 .
+
+local:Gaurav owl:sameAs wd:Q15572940 .
+
+local:GauravAggarwal owl:sameAs wd:Q92073337 .
+
+local:Gilmer owl:sameAs wd:Q16870192 .
+
+local:Github owl:sameAs wd:Q364 .
+
+local:Gomez owl:sameAs wd:Q86589109 .
+
+local:Goodfellow owl:sameAs wd:Q21449964 .
+
+local:GoogleResearch owl:sameAs wd:Q28943742 .
+
+local:GretchenKrueger owl:sameAs wd:Q123135088 .
+
+local:Greydanus owl:sameAs wd:Q37297633 .
+
+local:Gupta owl:sameAs wd:Q3632770 .
+
+local:Hallacy owl:sameAs wd:Q37451791 .
+
+local:Harley owl:sameAs wd:Q2712674 .
+
+local:Harper owl:sameAs wd:Q1586017 .
+
+local:Hays owl:sameAs wd:Q16870617 .
+
+local:Henry owl:sameAs wd:Q1158477 .
+
+local:Hesse owl:sameAs wd:Q1615700 .
+
+local:Hilton owl:sameAs wd:Q16256942 .
+
+local:Hooker owl:sameAs wd:Q16870868 .
+
+local:Hsu owl:sameAs wd:Q37302542 .
+
+local:Ibrahim owl:sameAs wd:Q30091560 .
+
+local:IeeeComputerSociety rdfs:label "IEEE Computer Society"@en ;
+    owl:sameAs wd:Q669561 .
+
+local:IlyaSutskever owl:sameAs wd:Q21712134 .
+
+local:Ilyas owl:sameAs wd:Q343835 .
+
+local:Imagenet owl:sameAs wd:Q24901201 .
+
+local:Impala rdfs:label "impala"@en ;
+    owl:sameAs wd:Q132576 .
+
+local:Isola owl:sameAs wd:Q288127 .
+
+local:Jacob owl:sameAs wd:Q25999604 .
+
+local:JacobJackson owl:sameAs wd:Q97669784 .
+
+local:Jaderberg owl:sameAs wd:Q586328 .
+
+local:JeffClune owl:sameAs wd:Q77049011 .
+
+local:Jia owl:sameAs wd:Q19731829 .
+
+local:Jiang owl:sameAs wd:Q3498693 .
+
+local:JoelLehman owl:sameAs wd:Q112842934 .
+
+local:JohnSchulman owl:sameAs wd:Q103236782 .
+
+local:Johnson owl:sameAs wd:Q1158485 .
+
+local:Joo owl:sameAs wd:Q37569740 .
+
+local:Jordan owl:sameAs wd:Q14021944 .
+
+local:JournalOfExperimentalPsychology owl:sameAs wd:Q27711478 .
+
+local:JournalOfMachineLearning rdfs:label "Journal of Machine Learning Research"@en ;
+    owl:sameAs wd:Q1660383 .
+
+local:Juliani owl:sameAs wd:Q37166848 .
+
+local:Kalai owl:sameAs wd:Q17230000 .
+
+local:Karkkainen owl:sameAs wd:Q27890940 .
+
+local:Karlen owl:sameAs wd:Q56244031 .
+
+local:Karpathy owl:sameAs wd:Q136379974 .
+
+local:Karras owl:sameAs wd:Q56244571 .
+
+local:Kayastha owl:sameAs wd:Q37215089 .
+
+local:Khalifa owl:sameAs wd:Q30091526 .
+
+local:Khosla owl:sameAs wd:Q36996207 .
+
+local:Kim owl:sameAs wd:Q13083721 .
+
+local:Klimov owl:sameAs wd:Q21506626 .
+
+local:Koch owl:sameAs wd:Q1348074 .
+
+local:KonstantinosMitsopoulos owl:sameAs wd:Q12112452 .
+
+local:Koul owl:sameAs wd:Q37021456 .
+
+local:Kraskov owl:sameAs wd:Q12031427 .
+
+local:Kreiman owl:sameAs wd:Q37171676 .
+
+local:Krishnamurthy owl:sameAs wd:Q13001365 .
+
+local:Krishnan owl:sameAs wd:Q36925357 .
+
+local:Krueger owl:sameAs wd:Q37483871 .
+
+local:Kuksa owl:sameAs wd:Q4262624 .
+
+local:Kwok owl:sameAs wd:Q56037307 .
+
+local:Laine owl:sameAs wd:Q20379143 .
+
+local:Lange owl:sameAs wd:Q16102227 .
+
+local:Lever owl:sameAs wd:Q16872087 .
+
+local:Levine rdfs:label "LeVine"@en ;
+    owl:sameAs wd:Q105077138 .
+
+local:Liang owl:sameAs wd:Q37447369 .
+
+local:LiangZhang owl:sameAs wd:Q110717368 .
+
+local:Litwin owl:sameAs wd:Q27826589 .
+
+local:Liu owl:sameAs wd:Q39000092 .
+
+local:LosAngeles owl:sameAs wd:Q65 .
+
+local:Lucas owl:sameAs wd:Q12325000 .
+
+local:Ludwig owl:sameAs wd:Q14159020 .
+
+local:LudwigSchubert owl:sameAs wd:Q112383619 .
+
+local:Madhavan owl:sameAs wd:Q37170155 .
+
+local:Madry owl:sameAs wd:Q37517709 .
+
+local:Mandal owl:sameAs wd:Q16876356 .
+
+local:Mane owl:sameAs wd:Q28871404 .
+
+local:Marris owl:sameAs wd:Q37251046 .
+
+local:Marsella owl:sameAs wd:Q1441429 .
+
+local:Martin owl:sameAs wd:Q18002399 .
+
+local:Martinez owl:sameAs wd:Q28812761 .
+
+local:Mcgrew owl:sameAs wd:Q26421594 .
+
+local:Michael owl:sameAs wd:Q4927524 .
+
+local:MichaelLittman rdfs:label "Michael L. Littman"@en ;
+    owl:sameAs wd:Q6832031 .
+
+local:MichaelPetrov owl:sameAs wd:Q130781487 .
+
+local:Mikolov owl:sameAs wd:Q132906362 .
+
+local:MiraMurati owl:sameAs wd:Q116706551 .
+
+local:Mishkin owl:sameAs wd:Q21452958 .
+
+local:MitPress rdfs:label "The MIT Press"@en ;
+    owl:sameAs wd:Q73820 .
+
+local:Morcos owl:sameAs wd:Q37287704 .
+
+local:Moritz owl:sameAs wd:Q16422573 .
+
+local:Muller owl:sameAs wd:Q17300792 .
+
+local:Munos owl:sameAs wd:Q37469877 .
+
+local:Nakano owl:sameAs wd:Q84042845 .
+
+local:Nature owl:sameAs wd:Q180445 .
+
+local:NatureReviewsNeuroscience owl:sameAs wd:Q2108225 .
+
+local:Neuron owl:sameAs wd:Q3338676 .
+
+local:Neyshabur owl:sameAs wd:Q5674665 .
+
+local:Nguyen owl:sameAs wd:Q37305156 .
+
+local:Nick owl:sameAs wd:Q13137230 .
+
+local:NickMoran owl:sameAs wd:Q135271270 .
+
+local:Nielsen owl:sameAs wd:Q16511256 .
+
+local:Ochshorn owl:sameAs wd:Q106453998 .
+
+local:Olah owl:sameAs wd:Q26258973 .
+
+local:Oliva owl:sameAs wd:Q1602845 .
+
+local:Openai owl:sameAs wd:Q21708200 .
+
+local:Pal owl:sameAs wd:Q7126100 .
+
+local:Parikh owl:sameAs wd:Q7137091 .
+
+local:Parmar owl:sameAs wd:Q37225960 .
+
+local:Perez owl:sameAs wd:Q37453974 .
+
+local:Petron owl:sameAs wd:Q115866767 .
+
+local:Petrov owl:sameAs wd:Q61121719 .
+
+local:Plappert owl:sameAs wd:Q37228921 .
+
+local:Pollak owl:sameAs wd:Q634520 .
+
+local:Polysemy owl:sameAs wd:Q191928 .
+
+local:Powell owl:sameAs wd:Q1158612 .
+
+local:PranavShyam owl:sameAs wd:Q115662093 .
+
+local:Puri owl:sameAs wd:Q14919687 .
+
+local:Quiroga owl:sameAs wd:Q969128 .
+
+local:Rabinovich owl:sameAs wd:Q12799717 .
+
+local:Rabinowitz owl:sameAs wd:Q21491987 .
+
+local:Radford owl:sameAs wd:Q42589369 .
+
+local:Ramesh owl:sameAs wd:Q7289371 .
+
+local:Ravindran owl:sameAs wd:Q37447861 .
+
+local:Reddy owl:sameAs wd:Q37564863 .
+
+local:Reed owl:sameAs wd:Q2136484 .
+
+local:Ren owl:sameAs wd:Q37100651 .
+
+local:Ribas owl:sameAs wd:Q24418943 .
+
+local:Riedmiller owl:sameAs wd:Q37452431 .
+
+local:Rm owl:sameAs wd:Q122921275 .
+
+local:Roy owl:sameAs wd:Q2170752 .
+
+local:Ruderman owl:sameAs wd:Q47515080 .
+
+local:Rust owl:sameAs wd:Q575650 .
+
+local:Saligrama owl:sameAs wd:Q7404481 .
+
+local:SandhiniAgarwal owl:sameAs wd:Q115661899 .
+
+local:Sastry owl:sameAs wd:Q37204424 .
+
+local:Schmidt owl:sameAs wd:Q15240355 .
+
+local:Schubert owl:sameAs wd:Q1557438 .
+
+local:Schulman owl:sameAs wd:Q21507473 .
+
+local:Schutt owl:sameAs wd:Q36954340 .
+
+local:Science owl:sameAs wd:Q192864 .
+
+local:Selvaraju owl:sameAs wd:Q107321422 .
+
+local:Shan owl:sameAs wd:Q20001236 .
+
+local:ShanCarter owl:sameAs wd:Q50358651 .
+
+local:Simonyan owl:sameAs wd:Q37460031 .
+
+local:Singh owl:sameAs wd:Q2289233 .
+
+local:Socher owl:sameAs wd:Q37105138 .
+
+local:Sohn owl:sameAs wd:Q21475345 .
+
+local:Song rdfs:label "song"@en ;
+    owl:sameAs wd:Q7366 .
+
+local:Soyer owl:sameAs wd:Q21504638 .
+
+local:Springenberg owl:sameAs wd:Q60156072 .
+
+local:Springer owl:sameAs wd:Q16883693 .
+
+local:Such owl:sameAs wd:Q37534757 .
+
+local:SujoyPaul owl:sameAs wd:Q135086514 .
+
+local:Sun owl:sameAs wd:Q525 .
+
+local:Sundararajan owl:sameAs wd:Q37565498 .
+
+local:Sutskever owl:sameAs wd:Q28026693 .
+
+local:Szegedy owl:sameAs wd:Q124737674 .
+
+local:Taly owl:sameAs wd:Q13637348 .
+
+local:TheNationalAcademyOfSciences rdfs:label "The National Academy of Sciences"@en ;
+    owl:sameAs wd:Q56431566 .
+
+local:Togelius owl:sameAs wd:Q47266238 .
+
+local:TomBrown owl:sameAs wd:Q114052496 .
+
+local:Torralba owl:sameAs wd:Q37488875 .
+
+local:Tran owl:sameAs wd:Q37526260 .
+
+local:TransactionalAnalysisJournal owl:sameAs wd:Q58236122 .
+
+local:TrendsInCognitiveSciences rdfs:label "Trends in Cognitive Sciences"@en ;
+    owl:sameAs wd:Q7838299 .
+
+local:Trump owl:sameAs wd:Q16944413 .
+
+local:Tsipras owl:sameAs wd:Q117793444 .
+
+local:Twitter owl:sameAs wd:Q1390577 .
+
+local:Tyka owl:sameAs wd:Q23898182 .
+
+local:Uszkoreit owl:sameAs wd:Q83382923 .
+
+local:Vanhoucke owl:sameAs wd:Q98208826 .
+
+local:Vaswani owl:sameAs wd:Q7917041 .
+
+local:Vedaldi owl:sameAs wd:Q106030664 .
+
+local:Verma owl:sameAs wd:Q37555082 .
+
+local:Vincent owl:sameAs wd:Q4928254 .
+
+local:Vladu owl:sameAs wd:Q107254426 .
+
+local:Wallace owl:sameAs wd:Q5261248 .
+
+local:Wang owl:sameAs wd:Q11573145 .
+
+local:Ward owl:sameAs wd:Q2549042 .
+
+local:Wattenberg owl:sameAs wd:Q37111753 .
+
+local:Weston owl:sameAs wd:Q14966209 .
+
+local:WikimediaCommons owl:sameAs wd:Q565 .
+
+local:Williams owl:sameAs wd:Q1688722 .
+
+local:Wolski owl:sameAs wd:Q21450230 .
+
+local:Yan owl:sameAs wd:Q19768450 .
+
+local:Yih owl:sameAs wd:Q37090195 .
+
+local:Zaremba owl:sameAs wd:Q21449013 .
+
+local:Zeiler owl:sameAs wd:Q37500764 .
+
+local:Zhou owl:sameAs wd:Q37323941 .
+
+local:Zisserman owl:sameAs wd:Q99497550 .
+
+local:Zoccolan owl:sameAs wd:Q99669007 .
+
+local:Zou owl:sameAs wd:Q4505446 .
+
+local:Zweig owl:sameAs wd:Q21448104 .
+

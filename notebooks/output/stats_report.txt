@@ -1,0 +1,65 @@
+
+============================================================
+  STATISTICS REPORT — AI RESEARCH KNOWLEDGE BASE
+============================================================
+  Domain  : AI Research (LLMs, Machine Learning, Deep Learning)
+  Source  : Web pages from distill.pub + AI publications
+============================================================
+
+1. INITIAL KB (private_kb.nt)
+────────────────────────────────────────
+  Triples            : 2,246
+  Entities           : 434
+  Unique relations   : 8
+  Distinct subjects  : 426
+
+  Type distribution:
+    Person                         :    297
+    Organization                   :     74
+    Date                           :     21
+    Entity                         :     20
+    GeopoliticalEntity             :      6
+    owl#Class                      :      5
+    owl#ObjectProperty             :      3
+    owl#DatatypeProperty           :      1
+
+2. FINAL EXPANDED KB (expanded_kb.nt)
+────────────────────────────────────────
+  Triples            : 65,103
+  Entities           : 50,469
+  Unique relations   : 31
+
+  Top 10 predicates:
+    P108                                     :   17,228
+    P69                                      :   11,681
+    P166                                     :   10,797
+    P17                                      :    6,556
+    P571                                     :    4,422
+    P131                                     :    4,334
+    P749                                     :    2,909
+    P355                                     :    1,892
+    P27                                      :      788
+    P460                                     :      561
+
+3. KGE SPLIT
+────────────────────────────────────────
+  Train              :     50,138  (80.0%)
+  Validation         :      6,260  (10.0%)
+  Test               :      6,287  (10.0%)
+  Total              :     62,685
+
+4. ALIGNMENTS
+────────────────────────────────────────
+  Alignment triples  :    313
+  (owl:sameAs + owl:equivalentProperty + rdfs:subPropertyOf)
+
+5. COMPLIANCE WITH PROJECT CONSTRAINTS
+────────────────────────────────────────
+  Initial KB ≥ 100 triples    : ✓  (2,246 triples)
+  Initial KB ≥ 50 entities    : ✓  (434 entities)
+  Final KB ≥ 50,000 triples   : ✓  (65,103 triples)
+  Final KB ≤ 200,000 triples  : ✓
+  Entities 5k-30k             : ✗  (50,469 entities)
+  Relations 50-200            : ~  (31 relations)
+
+============================================================

@@ -1,0 +1,47 @@
+
+=======================================================
+  FINAL REPORT — KB READY FOR KGE
+=======================================================
+
+  SPLIT
+  ─────
+  Train      :     50,138  (80.0%)
+  Validation :      6,260  (10.0%)
+  Test       :      6,287  (10.0%)
+  Total      :     62,685
+
+  DICTIONARIES
+  ────────────
+  Entities   :     50,218
+  Relations  :         24
+
+  CONNECTIVITY
+  ────────────
+  Nodes              :     50,196
+  Components         :        607
+  Largest component  :     46,487
+  Isolated nodes     :          0
+
+  GENERATED FILES
+  ───────────────
+  output\kge/train.txt
+  output\kge/valid.txt
+  output\kge/test.txt
+  output\kge/entities.dict
+  output\kge/relations.dict
+
+  COMMANDS TO RUN KGE (example with PyKEEN)
+  ────────────────────────────────────────
+  pip install pykeen
+  python -c "
+  from pykeen.pipeline import pipeline
+  result = pipeline(
+      training='output/kge/train.txt',
+      validation='output/kge/valid.txt',
+      testing='output/kge/test.txt',
+      model='TransE',
+      training_kwargs=dict(num_epochs=100),
+  )
+  result.save_to_directory('kge_results/transe')
+  "
+=======================================================

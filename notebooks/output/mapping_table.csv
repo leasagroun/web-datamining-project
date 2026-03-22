@@ -1,0 +1,378 @@
+private_entity,entity_label,ner_type,wikidata_uri,wikidata_label,description,confidence,status
+http://ai-kb.local/entity/Rust,Rust,Person,http://www.wikidata.org/entity/Q575650,Rust,memory-safe programming language without garbage collection,1.0,MATCHED
+http://ai-kb.local/entity/Doron,Doron,Person,http://www.wikidata.org/entity/Q16550556,Doron,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Goh,Goh,Person,,Kian Mau Goh,,0.433,NOT_FOUND
+http://ai-kb.local/entity/Lucas,Lucas,Person,http://www.wikidata.org/entity/Q12325000,Lucas,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Khalifa,Khalifa,Person,http://www.wikidata.org/entity/Q30091526,Khalifa,male given name,1.0,MATCHED
+http://ai-kb.local/entity/DanielFilan,Daniel Filan,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Askell,Askell,Person,,Askell Jonsson,,0.5,NOT_FOUND
+http://ai-kb.local/entity/NickMoran,Nick Moran,Person,http://www.wikidata.org/entity/Q135271270,Nick Moran,escape room and interactive entertainment designer,1.0,MATCHED
+http://ai-kb.local/entity/AlecRadford,Alec Radford,Person,http://www.wikidata.org/entity/Q29180956,Alec Radford,machine learning researcher/developer,1.0,MATCHED
+http://ai-kb.local/entity/Marris,Marris,Person,http://www.wikidata.org/entity/Q37251046,Marris,family name,1.0,MATCHED
+http://ai-kb.local/entity/Riedmiller,Riedmiller,Person,http://www.wikidata.org/entity/Q37452431,Riedmiller,family name,1.0,MATCHED
+http://ai-kb.local/entity/Zaremba,Zaremba,Person,http://www.wikidata.org/entity/Q21449013,Zaremba,family name,1.0,MATCHED
+http://ai-kb.local/entity/Hilton,Hilton,Person,http://www.wikidata.org/entity/Q16256942,Hilton,given name,1.0,MATCHED
+http://ai-kb.local/entity/Karkkainen,Kärkkäinen,Person,http://www.wikidata.org/entity/Q27890940,Kärkkäinen,family name,1.0,MATCHED
+http://ai-kb.local/entity/AdityaRamesh,Aditya Ramesh,Person,http://www.wikidata.org/entity/Q135241027,Aditya Ramesh,,1.0,MATCHED
+http://ai-kb.local/entity/ChaitanyaKJoshi,Chaitanya K. Joshi,Person,http://www.wikidata.org/entity/Q135166013,Chaitanya K. Joshi,"researcher, University of Cambridge",1.0,MATCHED
+http://ai-kb.local/entity/Sermanet,Sermanet,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Karpathy,Karpathy,Person,http://www.wikidata.org/entity/Q136379974,Karpathy,family name,1.0,MATCHED
+http://ai-kb.local/entity/Akkaya,Akkaya,Person,http://www.wikidata.org/entity/Q56244850,Akkaya,family name,1.0,MATCHED
+http://ai-kb.local/entity/Fong,Fong,Person,http://www.wikidata.org/entity/Q37052386,Fong,family name,1.0,MATCHED
+http://ai-kb.local/entity/Gabriel,Gabriel,Person,http://www.wikidata.org/entity/Q4925914,Gabriel,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Sutskever,Sutskever,Person,http://www.wikidata.org/entity/Q28026693,Sutskever,family name,1.0,MATCHED
+http://ai-kb.local/entity/Mnih,Mnih,Person,,Mnihla,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Brox,Brox,Person,http://www.wikidata.org/entity/Q21507002,Brox,family name,1.0,MATCHED
+http://ai-kb.local/entity/Gaurav,Gaurav,Person,http://www.wikidata.org/entity/Q15572940,Gaurav,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Ibrahim,Ibrahim,Person,http://www.wikidata.org/entity/Q30091560,Ibrahim,family name,1.0,MATCHED
+http://ai-kb.local/entity/JohnSchulman,John Schulman,Person,http://www.wikidata.org/entity/Q103236782,John Schulman,American computer scientist,1.0,MATCHED
+http://ai-kb.local/entity/Batra,Batra,Person,,Batrachochytrium dendrobatidis,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Hallacy,Hallacy,Person,http://www.wikidata.org/entity/Q37451791,Hallacy,family name,1.0,MATCHED
+http://ai-kb.local/entity/Moritz,Moritz,Person,http://www.wikidata.org/entity/Q16422573,Moritz,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Vedantam,Vedantam,Person,,Vedantam Rajshekhar,,0.6,NOT_FOUND
+http://ai-kb.local/entity/Roy,Roy,Person,http://www.wikidata.org/entity/Q2170752,Roy,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Makelov,Makelov,Person,,Make Love Not Porn,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Pollak,Pollak,Person,http://www.wikidata.org/entity/Q634520,Pollak,family name,1.0,MATCHED
+http://ai-kb.local/entity/Ward,Ward,Person,http://www.wikidata.org/entity/Q2549042,Ward,family name,1.0,MATCHED
+http://ai-kb.local/entity/Bottou,Bottou,Person,,Botou Department,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Everingham,Everingham,Person,http://www.wikidata.org/entity/Q5417266,Everingham,"village and civil parish in the East Riding of Yorkshire, England",1.0,MATCHED
+http://ai-kb.local/entity/Ilyas,Ilyas,Person,http://www.wikidata.org/entity/Q343835,Ilyas,male given name,1.0,MATCHED
+http://ai-kb.local/entity/ShanCarter,Shan Carter,Person,http://www.wikidata.org/entity/Q50358651,Shan Carter,researcher,1.0,MATCHED
+http://ai-kb.local/entity/LudwigSchubert,Ludwig Schubert,Person,http://www.wikidata.org/entity/Q112383619,Ludwig Schubert,,1.0,MATCHED
+http://ai-kb.local/entity/JonathanUesato,Jonathan Uesato,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Munos,Munos,Person,http://www.wikidata.org/entity/Q37469877,Munos,family name,1.0,MATCHED
+http://ai-kb.local/entity/MichaelLittman,Michael Littman,Person,http://www.wikidata.org/entity/Q6832031,Michael L. Littman,American computer scientist,0.767,MATCHED
+http://ai-kb.local/entity/SteveDowling,Steve Dowling,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Zeiler,Zeiler,Person,http://www.wikidata.org/entity/Q37500764,Zeiler,family name,1.0,MATCHED
+http://ai-kb.local/entity/Engstrom,Engstrom,Person,http://www.wikidata.org/entity/Q36862790,Engstrom,family name,1.0,MATCHED
+http://ai-kb.local/entity/Kuksa,Kuksa,Person,http://www.wikidata.org/entity/Q4262624,Kuksa,"river in Ivanovo and Vladimir Oblasts, Russia",1.0,MATCHED
+http://ai-kb.local/entity/Liebana,Liebana,Person,,Liébana,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Martin,Martin,Person,http://www.wikidata.org/entity/Q18002399,Martin,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Aggarwal,Aggarwal,Person,http://www.wikidata.org/entity/Q37458193,Aggarwal,family name,1.0,MATCHED
+http://ai-kb.local/entity/Shazeer,Shazeer,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Carter,Carter,Person,http://www.wikidata.org/entity/Q16101731,Carter,family name,1.0,MATCHED
+http://ai-kb.local/entity/Soyer,Soyer,Person,http://www.wikidata.org/entity/Q21504638,Soyer,family name,1.0,MATCHED
+http://ai-kb.local/entity/Jia,Jia,Person,http://www.wikidata.org/entity/Q19731829,Jia,given name,1.0,MATCHED
+http://ai-kb.local/entity/Tran,Tran,Person,http://www.wikidata.org/entity/Q37526260,Tran,family name,1.0,MATCHED
+http://ai-kb.local/entity/Beattie,Beattie,Person,http://www.wikidata.org/entity/Q21508621,Beattie,family name,1.0,MATCHED
+http://ai-kb.local/entity/Liu,Liu,Person,http://www.wikidata.org/entity/Q39000092,Liu,family name,1.0,MATCHED
+http://ai-kb.local/entity/Madry,Madry,Person,http://www.wikidata.org/entity/Q37517709,Madry,family name,1.0,MATCHED
+http://ai-kb.local/entity/Johnson,Johnson,Person,http://www.wikidata.org/entity/Q1158485,Johnson,family name,1.0,MATCHED
+http://ai-kb.local/entity/TomBrown,Tom Brown,Person,http://www.wikidata.org/entity/Q114052496,Tom Brown,data scientist,1.0,MATCHED
+http://ai-kb.local/entity/Nguyen,Nguyen,Person,http://www.wikidata.org/entity/Q37305156,Nguyen,family name,1.0,MATCHED
+http://ai-kb.local/entity/KarlCobbe,Karl Cobbe,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Kreiman,Kreiman,Person,http://www.wikidata.org/entity/Q37171676,Kreiman,family name,1.0,MATCHED
+http://ai-kb.local/entity/Deshmukh,Deshmukh,Person,http://www.wikidata.org/entity/Q21502265,Deshmukh,family name,1.0,MATCHED
+http://ai-kb.local/entity/DavidNichols,David Nichols,Person,http://www.wikidata.org/entity/Q100890957,David Nichols,American basketball player (born 1996),1.0,MATCHED
+http://ai-kb.local/entity/Muller,Muller,Person,http://www.wikidata.org/entity/Q17300792,Muller,"human settlement in Els Plans de Sió, Segarra, Ponent, Spain",1.0,MATCHED
+http://ai-kb.local/entity/Henry,Henry,Person,http://www.wikidata.org/entity/Q1158477,Henry,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Kim,Kim,Person,http://www.wikidata.org/entity/Q13083721,Kim,Korean family name (김),1.0,MATCHED
+http://ai-kb.local/entity/JoelLehman,Joel Lehman,Person,http://www.wikidata.org/entity/Q112842934,Joel Lehman,American AI researcher,1.0,MATCHED
+http://ai-kb.local/entity/Nakano,Nakano,Person,http://www.wikidata.org/entity/Q84042845,Nakano,family name,1.0,MATCHED
+http://ai-kb.local/entity/Ribas,Ribas,Person,http://www.wikidata.org/entity/Q24418943,Ribas,family name,1.0,MATCHED
+http://ai-kb.local/entity/Ruderman,Ruderman,Person,http://www.wikidata.org/entity/Q47515080,Ruderman,family name,1.0,MATCHED
+http://ai-kb.local/entity/Lange,Lange,Person,http://www.wikidata.org/entity/Q16102227,Lange,family name,1.0,MATCHED
+http://ai-kb.local/entity/Farhi,Farhi,Person,http://www.wikidata.org/entity/Q56244651,Farhi,family name,1.0,MATCHED
+http://ai-kb.local/entity/Sundararajan,Sundararajan,Person,http://www.wikidata.org/entity/Q37565498,Sundararajan,family name,1.0,MATCHED
+http://ai-kb.local/entity/Anguelov,Anguelov,Person,http://www.wikidata.org/entity/Q37025722,Anguelov,family name,1.0,MATCHED
+http://ai-kb.local/entity/Such,Such,Person,http://www.wikidata.org/entity/Q37534757,Such,family name,1.0,MATCHED
+http://ai-kb.local/entity/DanielZiegler,Daniel Ziegler,Person,http://www.wikidata.org/entity/Q115923540,Daniel Ziegler,AI researcher,1.0,MATCHED
+http://ai-kb.local/entity/AmeyaDaigavane,Ameya Daigavane,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Dicarlo,DiCarlo,Person,http://www.wikidata.org/entity/Q85756731,DiCarlo,family name,1.0,MATCHED
+http://ai-kb.local/entity/Wolski,Wolski,Person,http://www.wikidata.org/entity/Q21450230,Wolski,family name,1.0,MATCHED
+http://ai-kb.local/entity/Kwok,Kwok,Person,http://www.wikidata.org/entity/Q56037307,Kwok,family name,1.0,MATCHED
+http://ai-kb.local/entity/Rabinovich,Rabinovich,Person,http://www.wikidata.org/entity/Q12799717,Rabinovich,family name (Рабинович),1.0,MATCHED
+http://ai-kb.local/entity/Drew,Drew,Person,http://www.wikidata.org/entity/Q19819740,Drew,unisex given name,1.0,MATCHED
+http://ai-kb.local/entity/Winn,Winn,Person,,Winnipeg,,0.0,NOT_FOUND
+http://ai-kb.local/entity/SandhiniAgarwal,Sandhini Agarwal,Person,http://www.wikidata.org/entity/Q115661899,Sandhini Agarwal,researcher,1.0,MATCHED
+http://ai-kb.local/entity/Martinez,Martinez,Person,http://www.wikidata.org/entity/Q28812761,Martinez,family name,1.0,MATCHED
+http://ai-kb.local/entity/Aila,Aila,Person,http://www.wikidata.org/entity/Q405000,Aila,female given name,1.0,MATCHED
+http://ai-kb.local/entity/Koch,Koch,Person,http://www.wikidata.org/entity/Q1348074,Koch,family name,1.0,MATCHED
+http://ai-kb.local/entity/Quiroga,Quiroga,Person,http://www.wikidata.org/entity/Q969128,Quiroga,"municipality in the province of Lugo, Spain",1.0,MATCHED
+http://ai-kb.local/entity/Sohn,Sohn,Person,http://www.wikidata.org/entity/Q21475345,Sohn,family name,1.0,MATCHED
+http://ai-kb.local/entity/Kayastha,Kayastha,Person,http://www.wikidata.org/entity/Q37215089,Kayastha,family name,1.0,MATCHED
+http://ai-kb.local/entity/Firoiu,Firoiu,Person,http://www.wikidata.org/entity/Q107218855,Firoiu,family name,1.0,MATCHED
+http://ai-kb.local/entity/GabrielGoh,Gabriel Goh,Person,http://www.wikidata.org/entity/Q50359458,Gabriel Goh,"researcher, machine learning, OpenAI, University of California, Davis",1.0,MATCHED
+http://ai-kb.local/entity/Castaneda,Castaneda,Person,http://www.wikidata.org/entity/Q37534079,Castaneda,family name,1.0,MATCHED
+http://ai-kb.local/entity/Lapedriza,Lapedriza,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Cogswell,Cogswell,Person,http://www.wikidata.org/entity/Q56244680,Cogswell,family name,1.0,MATCHED
+http://ai-kb.local/entity/Alec,Alec,Person,http://www.wikidata.org/entity/Q18171804,Alec,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Ren,Ren,Person,http://www.wikidata.org/entity/Q37100651,Ren,family name,1.0,MATCHED
+http://ai-kb.local/entity/Zhou,Zhou,Person,http://www.wikidata.org/entity/Q37323941,Zhou,family name,1.0,MATCHED
+http://ai-kb.local/entity/Zoccolan,Zoccolan,Person,http://www.wikidata.org/entity/Q99669007,Zoccolan,family name,1.0,MATCHED
+http://ai-kb.local/entity/ReiichiroNakano,Reiichiro Nakano,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Wallace,Wallace,Person,http://www.wikidata.org/entity/Q5261248,Wallace,family name,1.0,MATCHED
+http://ai-kb.local/entity/Cobbe,Cobbe,Person,http://www.wikidata.org/entity/Q21507433,Cobbe,family name,1.0,MATCHED
+http://ai-kb.local/entity/Jordan,Jordan,Person,http://www.wikidata.org/entity/Q14021944,Jordan,unisex given name,1.0,MATCHED
+http://ai-kb.local/entity/Goodfellow,Goodfellow,Person,http://www.wikidata.org/entity/Q21449964,Goodfellow,family name,1.0,MATCHED
+http://ai-kb.local/entity/Schmidt,Schmidt,Person,http://www.wikidata.org/entity/Q15240355,Schmidt,family name,1.0,MATCHED
+http://ai-kb.local/entity/Tyka,Tyka,Person,http://www.wikidata.org/entity/Q23898182,Tyka,female given name,1.0,MATCHED
+http://ai-kb.local/entity/Puri,Puri,Person,http://www.wikidata.org/entity/Q14919687,Puri,"district in Mojokerto Regency, East Java Province, Indonesia",1.0,MATCHED
+http://ai-kb.local/entity/Schutt,Schutt,Person,http://www.wikidata.org/entity/Q36954340,Schutt,family name,1.0,MATCHED
+http://ai-kb.local/entity/Mane,Mané,Person,http://www.wikidata.org/entity/Q28871404,Mané,family name,1.0,MATCHED
+http://ai-kb.local/entity/Taly,Taly,Person,http://www.wikidata.org/entity/Q13637348,Taly,human settlement in Russia,1.0,MATCHED
+http://ai-kb.local/entity/Greydanus,Greydanus,Person,http://www.wikidata.org/entity/Q37297633,Greydanus,family name,1.0,MATCHED
+http://ai-kb.local/entity/Vaswani,Vaswani,Person,http://www.wikidata.org/entity/Q7917041,Vaswani,family name,1.0,MATCHED
+http://ai-kb.local/entity/Yih,Yih,Person,http://www.wikidata.org/entity/Q37090195,Yih,family name,1.0,MATCHED
+http://ai-kb.local/entity/Balaraman,Balaraman,Person,http://www.wikidata.org/entity/Q37182249,Balaraman,family name,1.0,MATCHED
+http://ai-kb.local/entity/Adebayo,Adebayo,Person,http://www.wikidata.org/entity/Q4681466,Adebayo,family name,1.0,MATCHED
+http://ai-kb.local/entity/AshishTendulkar,Ashish Tendulkar,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Neyshabur,Neyshabur,Person,http://www.wikidata.org/entity/Q5674665,Neyshabur,"village in Isfahan, Iran",1.0,MATCHED
+http://ai-kb.local/entity/Petrov,Petrov,Person,http://www.wikidata.org/entity/Q61121719,Petrov,family name,1.0,MATCHED
+http://ai-kb.local/entity/AnshKhurana,Ansh Khurana,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Castro,Castro,Person,http://www.wikidata.org/entity/Q1049855,Castro,family name,1.0,MATCHED
+http://ai-kb.local/entity/Joo,Joo,Person,http://www.wikidata.org/entity/Q37569740,Joo,family name,1.0,MATCHED
+http://ai-kb.local/entity/Williams,Williams,Person,http://www.wikidata.org/entity/Q1688722,Williams,family name,1.0,MATCHED
+http://ai-kb.local/entity/AdamPearce,Adam Pearce,Person,http://www.wikidata.org/entity/Q2823989,Adam Pearce,American professional wrestler,1.0,MATCHED
+http://ai-kb.local/entity/Cheung,Cheung,Person,http://www.wikidata.org/entity/Q5094229,Cheung,family name,1.0,MATCHED
+http://ai-kb.local/entity/Bengio,Bengio,Person,http://www.wikidata.org/entity/Q62619701,Bengio,family name,1.0,MATCHED
+http://ai-kb.local/entity/Sun,Sun,Person,http://www.wikidata.org/entity/Q525,Sun,star at the centre of the Solar System,1.0,MATCHED
+http://ai-kb.local/entity/Abadi,Abadi,Person,http://www.wikidata.org/entity/Q123874796,Abadi,Indonesian politician (born 1972 in Kali Sari),1.0,MATCHED
+http://ai-kb.local/entity/IlyaSutskever,Ilya Sutskever,Person,http://www.wikidata.org/entity/Q21712134,Ilya Sutskever,AI researcher,1.0,MATCHED
+http://ai-kb.local/entity/Ochshorn,Ochshorn,Person,http://www.wikidata.org/entity/Q106453998,Ochshorn,family name,1.0,MATCHED
+http://ai-kb.local/entity/Rm,R.M.,Person,http://www.wikidata.org/entity/Q122921275,R.M.,,1.0,MATCHED
+http://ai-kb.local/entity/Jaderberg,Jaderberg,Person,http://www.wikidata.org/entity/Q586328,Jaderberg,human settlement,1.0,MATCHED
+http://ai-kb.local/entity/BenMillwood,Ben Millwood,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Clune,Clune,Person,http://www.wikidata.org/entity/Q21507430,Clune,family name,1.0,MATCHED
+http://ai-kb.local/entity/Petron,Petron,Person,http://www.wikidata.org/entity/Q115866767,Petron,ancient Greek physician,1.0,MATCHED
+http://ai-kb.local/entity/Dodge,Dodge,Person,http://www.wikidata.org/entity/Q16275547,Dodge,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Krishnamurthy,Krishnamurthy,Person,http://www.wikidata.org/entity/Q13001365,Krishnamurthy,family name,1.0,MATCHED
+http://ai-kb.local/entity/Kraskov,Kraskov,Person,http://www.wikidata.org/entity/Q12031427,Kraskov,part of Seč in Chrudim District,1.0,MATCHED
+http://ai-kb.local/entity/Harper,Harper,Person,http://www.wikidata.org/entity/Q1586017,Harper,family name,1.0,MATCHED
+http://ai-kb.local/entity/Yan,Yan,Person,http://www.wikidata.org/entity/Q19768450,Yan,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Selvaraju,Selvaraju,Person,http://www.wikidata.org/entity/Q107321422,Selvaraju,given name,1.0,MATCHED
+http://ai-kb.local/entity/Powell,Powell,Person,http://www.wikidata.org/entity/Q1158612,Powell,family name,1.0,MATCHED
+http://ai-kb.local/entity/Chociej,Chociej,Person,http://www.wikidata.org/entity/Q118066099,Chociej,family name,1.0,MATCHED
+http://ai-kb.local/entity/BriceMenard,Brice Menard,Person,,Brice Ménard,,0.433,NOT_FOUND
+http://ai-kb.local/entity/Ameya,Ameya,Person,http://www.wikidata.org/entity/Q110290904,Ameya,given name,1.0,MATCHED
+http://ai-kb.local/entity/Chang,Chang,Person,http://www.wikidata.org/entity/Q36931387,Chang,family name,1.0,MATCHED
+http://ai-kb.local/entity/Cammarata,Cammarata,Person,http://www.wikidata.org/entity/Q431276,Cammarata,Italian comune,1.0,MATCHED
+http://ai-kb.local/entity/Krishnan,Krishnan,Person,http://www.wikidata.org/entity/Q36925357,Krishnan,family name,1.0,MATCHED
+http://ai-kb.local/entity/Polosukhin,Polosukhin,Person,,Polosukhina street,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Risteski,Risteski,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Jacob,Jacob,Person,http://www.wikidata.org/entity/Q25999604,Jacob,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Isola,Isola,Person,http://www.wikidata.org/entity/Q288127,Isola,"commune in Alpes-Maritimes, France",1.0,MATCHED
+http://ai-kb.local/entity/Nakkiran,Nakkiran,Person,,Nakkiran Arulmozhi,,0.6,NOT_FOUND
+http://ai-kb.local/entity/JorgeOrbay,Jorge Orbay,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Deng,Deng,Person,http://www.wikidata.org/entity/Q2578531,Deng,Chinese family name (鄧 / 邓),1.0,MATCHED
+http://ai-kb.local/entity/Brockman,Brockman,Person,http://www.wikidata.org/entity/Q16860484,Brockman,family name,1.0,MATCHED
+http://ai-kb.local/entity/DarioAmodei,Dario Amodei,Person,http://www.wikidata.org/entity/Q103335665,Dario Amodei,"CEO and co-founder of Anthropic, Ph.D. Princeton University 2011",1.0,MATCHED
+http://ai-kb.local/entity/Laine,Laine,Person,http://www.wikidata.org/entity/Q20379143,Laine,family name,1.0,MATCHED
+http://ai-kb.local/entity/Olah,Olah,Person,http://www.wikidata.org/entity/Q26258973,Olah,family name,1.0,MATCHED
+http://ai-kb.local/entity/Zhang,"Zhang,",Person,,Lijun Zhang,,0.1,NOT_FOUND
+http://ai-kb.local/entity/Ramesh,Ramesh,Person,http://www.wikidata.org/entity/Q7289371,Ramesh,male given name,1.0,MATCHED
+http://ai-kb.local/entity/ChelseaVoss,Chelsea Voss†,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Dong,Dong,Person,http://www.wikidata.org/entity/Q3036254,Dong,family name,1.0,MATCHED
+http://ai-kb.local/entity/Verma,Verma,Person,http://www.wikidata.org/entity/Q37555082,Verma,family name,1.0,MATCHED
+http://ai-kb.local/entity/Kavukcuoglu,Kavukcuoglu,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Kalai,Kalai,Person,http://www.wikidata.org/entity/Q17230000,Kalai,"subdistrict in Takua Thung district, Phang Nga province, Thailand",1.0,MATCHED
+http://ai-kb.local/entity/Debiak,Dębiak,Person,http://www.wikidata.org/entity/Q118071366,Dębiak,family name,1.0,MATCHED
+http://ai-kb.local/entity/Fried,Fried,Person,http://www.wikidata.org/entity/Q28758139,Fried,family name,1.0,MATCHED
+http://ai-kb.local/entity/Hendrycks,Hendrycks,Person,,Grave of Hendrycks,,0.333,NOT_FOUND
+http://ai-kb.local/entity/Hesse,Hesse,Person,http://www.wikidata.org/entity/Q1615700,Hesse,family name,1.0,MATCHED
+http://ai-kb.local/entity/Khosla,Khosla,Person,http://www.wikidata.org/entity/Q36996207,Khosla,family name,1.0,MATCHED
+http://ai-kb.local/entity/Zisserman,Zisserman,Person,http://www.wikidata.org/entity/Q99497550,Zisserman,family name,1.0,MATCHED
+http://ai-kb.local/entity/Schubert,Schubert,Person,http://www.wikidata.org/entity/Q1557438,Schubert,family name,1.0,MATCHED
+http://ai-kb.local/entity/Levine,Levine,Person,http://www.wikidata.org/entity/Q105077138,LeVine,family name,1.0,MATCHED
+http://ai-kb.local/entity/Schulman,Schulman,Person,http://www.wikidata.org/entity/Q21507473,Schulman,family name,1.0,MATCHED
+http://ai-kb.local/entity/Agarwal,Agarwal,Person,http://www.wikidata.org/entity/Q36906535,Agarwal,family name,1.0,MATCHED
+http://ai-kb.local/entity/AlexRay,Alex Ray,Person,http://www.wikidata.org/entity/Q110772076,Alex Ray,Mississippi business man and logger,1.0,MATCHED
+http://ai-kb.local/entity/Liang,Liang,Person,http://www.wikidata.org/entity/Q37447369,Liang,family name,1.0,MATCHED
+http://ai-kb.local/entity/AlexanderLenails,Alexander Lenail’s,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Koul,Koul,Person,http://www.wikidata.org/entity/Q37021456,Koul,family name,1.0,MATCHED
+http://ai-kb.local/entity/Mordvintsev,Mordvintsev,Person,,Mordvintsevo,,0.1,NOT_FOUND
+http://ai-kb.local/entity/Vincent,Vincent,Person,http://www.wikidata.org/entity/Q4928254,Vincent,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Vladu,Vladu,Person,http://www.wikidata.org/entity/Q107254426,Vladu,family name,1.0,MATCHED
+http://ai-kb.local/entity/Pal,Pal,Person,http://www.wikidata.org/entity/Q7126100,Pal,family name,1.0,MATCHED
+http://ai-kb.local/entity/Ehinger,Ehinger,Person,http://www.wikidata.org/entity/Q37462616,Ehinger,family name,1.0,MATCHED
+http://ai-kb.local/entity/Hsu,Hsu,Person,http://www.wikidata.org/entity/Q37302542,Hsu,family name,1.0,MATCHED
+http://ai-kb.local/entity/Bruna,Bruna,Person,http://www.wikidata.org/entity/Q20000363,Bruna,female given name,1.0,MATCHED
+http://ai-kb.local/entity/Collobert,Collobert,Person,http://www.wikidata.org/entity/Q98207928,Collobert,family name,1.0,MATCHED
+http://ai-kb.local/entity/Perez,Perez,Person,http://www.wikidata.org/entity/Q37453974,Perez,family name,1.0,MATCHED
+http://ai-kb.local/entity/Gomez,Gomez,Person,http://www.wikidata.org/entity/Q86589109,Gomez,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Gaina,Gaina,Person,http://www.wikidata.org/entity/Q11732195,Gaina,language,1.0,MATCHED
+http://ai-kb.local/entity/Dosovitskiy,Dosovitskiy,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Hays,Hays,Person,http://www.wikidata.org/entity/Q16870617,Hays,family name,1.0,MATCHED
+http://ai-kb.local/entity/Courville,Courville,Person,http://www.wikidata.org/entity/Q598449,Courville,"commune in Marne, France",1.0,MATCHED
+http://ai-kb.local/entity/Fern,Fern,Person,http://www.wikidata.org/entity/Q1406445,Fern,unisex given name,1.0,MATCHED
+http://ai-kb.local/entity/Mcgrew,McGrew,Person,http://www.wikidata.org/entity/Q26421594,McGrew,family name,1.0,MATCHED
+http://ai-kb.local/entity/Oliva,Oliva,Person,http://www.wikidata.org/entity/Q1602845,Oliva,genus of snails,1.0,MATCHED
+http://ai-kb.local/entity/Mandal,Mandal,Person,http://www.wikidata.org/entity/Q16876356,Mandal,family name,1.0,MATCHED
+http://ai-kb.local/entity/Czarnecki,Czarnecki,Person,http://www.wikidata.org/entity/Q27824009,Czarnecki,family name,1.0,MATCHED
+http://ai-kb.local/entity/JeffClune,Jeff Clune,Person,http://www.wikidata.org/entity/Q77049011,Jeff Clune,computer scientist,1.0,MATCHED
+http://ai-kb.local/entity/Daigavane,Daigavane,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/MichaelPetrov,Michael Petrov,Person,http://www.wikidata.org/entity/Q130781487,Michael Petrov,,1.0,MATCHED
+http://ai-kb.local/entity/Madhavan,Madhavan,Person,http://www.wikidata.org/entity/Q37170155,Madhavan,family name,1.0,MATCHED
+http://ai-kb.local/entity/Plappert,Plappert,Person,http://www.wikidata.org/entity/Q37228921,Plappert,family name,1.0,MATCHED
+http://ai-kb.local/entity/Saligrama,Saligrama,Person,http://www.wikidata.org/entity/Q7404481,Saligrama,human settlement in India,1.0,MATCHED
+http://ai-kb.local/entity/LiangZhang,Liang Zhang,Person,http://www.wikidata.org/entity/Q110717368,Liang Zhang,"PhD, University of Washington, 2013",1.0,MATCHED
+http://ai-kb.local/entity/Adolphs,Adolphs,Person,http://www.wikidata.org/entity/Q83338543,Adolphs,family name,1.0,MATCHED
+http://ai-kb.local/entity/Wattenberg,Wattenberg,Person,http://www.wikidata.org/entity/Q37111753,Wattenberg,family name,1.0,MATCHED
+http://ai-kb.local/entity/GretchenKrueger,Gretchen Krueger,Person,http://www.wikidata.org/entity/Q123135088,Gretchen Krueger,researcher,1.0,MATCHED
+http://ai-kb.local/entity/NevanWichers,Nevan Wichers,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/SujoyPaul,Sujoy Paul,Person,http://www.wikidata.org/entity/Q135086514,Sujoy Paul,Indian judge (born 1964),1.0,MATCHED
+http://ai-kb.local/entity/Clark,Clark,Person,http://www.wikidata.org/entity/Q1119151,Clark,family name,1.0,MATCHED
+http://ai-kb.local/entity/JacobJackson,Jacob Jackson,Person,http://www.wikidata.org/entity/Q97669784,Jacob Jackson,American soccer player,1.0,MATCHED
+http://ai-kb.local/entity/Litwin,Litwin,Person,http://www.wikidata.org/entity/Q27826589,Litwin,family name,1.0,MATCHED
+http://ai-kb.local/entity/Bolukbasi,Bolukbasi,Person,,Bölükbaşı,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Springenberg,Springenberg,Person,http://www.wikidata.org/entity/Q60156072,Springenberg,family name,1.0,MATCHED
+http://ai-kb.local/entity/Lever,Lever,Person,http://www.wikidata.org/entity/Q16872087,Lever,family name,1.0,MATCHED
+http://ai-kb.local/entity/KonstantinosMitsopoulos,Konstantinos Mitsopoulos,Person,http://www.wikidata.org/entity/Q12112452,Konstantinos Mitsopoulos,Greek scientist and university professor,1.0,MATCHED
+http://ai-kb.local/entity/Krueger,Krueger,Person,http://www.wikidata.org/entity/Q37483871,Krueger,family name,1.0,MATCHED
+http://ai-kb.local/entity/ChristopherHesse,Christopher Hesse,Person,http://www.wikidata.org/entity/Q136565233,Christopher Hesse,,1.0,MATCHED
+http://ai-kb.local/entity/Espeholt,Espeholt,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Ravindran,Ravindran,Person,http://www.wikidata.org/entity/Q37447861,Ravindran,family name,1.0,MATCHED
+http://ai-kb.local/entity/Singh,Singh,Person,http://www.wikidata.org/entity/Q2289233,Singh,family name,1.0,MATCHED
+http://ai-kb.local/entity/Harley,Harley,Person,http://www.wikidata.org/entity/Q2712674,Harley,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Reddy,Reddy,Person,http://www.wikidata.org/entity/Q37564863,Reddy,family name,1.0,MATCHED
+http://ai-kb.local/entity/Parmar,Parmar,Person,http://www.wikidata.org/entity/Q37225960,Parmar,family name,1.0,MATCHED
+http://ai-kb.local/entity/JacobHilton,Jacob Hilton,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Klimov,Klimov,Person,http://www.wikidata.org/entity/Q21506626,Klimov,family name (Климов),1.0,MATCHED
+http://ai-kb.local/entity/Song,Song,Person,http://www.wikidata.org/entity/Q7366,song,musical composition for voice(s),1.0,MATCHED
+http://ai-kb.local/entity/Ludwig,Ludwig,Person,http://www.wikidata.org/entity/Q14159020,Ludwig,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Satyanarayan,Satyanarayan,Person,,Satyanarayana Gupta Manyam,,0.1,NOT_FOUND
+http://ai-kb.local/entity/Das,Das,Person,http://www.wikidata.org/entity/Q13553622,Das,family name,1.0,MATCHED
+http://ai-kb.local/entity/Parikh,Parikh,Person,http://www.wikidata.org/entity/Q7137091,Parikh,family name,1.0,MATCHED
+http://ai-kb.local/entity/Dhariwal,Dhariwal,Person,http://www.wikidata.org/entity/Q37168058,Dhariwal,family name,1.0,MATCHED
+http://ai-kb.local/entity/Socher,Socher,Person,http://www.wikidata.org/entity/Q37105138,Socher,family name,1.0,MATCHED
+http://ai-kb.local/entity/Alber,Alber,Person,http://www.wikidata.org/entity/Q48721926,Alber,family name,1.0,MATCHED
+http://ai-kb.local/entity/Mishkin,Mishkin,Person,http://www.wikidata.org/entity/Q21452958,Mishkin,family name,1.0,MATCHED
+http://ai-kb.local/entity/Chris,Chris,Person,http://www.wikidata.org/entity/Q339346,Chris,unisex given name,1.0,MATCHED
+http://ai-kb.local/entity/Belkin,Belkin,Person,http://www.wikidata.org/entity/Q21508636,Belkin,family name,1.0,MATCHED
+http://ai-kb.local/entity/Simonyan,Simonyan,Person,http://www.wikidata.org/entity/Q37460031,Simonyan,family name,1.0,MATCHED
+http://ai-kb.local/entity/Marsella,Marsella,Person,http://www.wikidata.org/entity/Q1441429,Marsella,Colombian municipality of the department of Risaralda,1.0,MATCHED
+http://ai-kb.local/entity/Gabe,Gabe,Person,http://www.wikidata.org/entity/Q21146008,Gabe,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Morcos,Morcos,Person,http://www.wikidata.org/entity/Q37287704,Morcos,family name,1.0,MATCHED
+http://ai-kb.local/entity/Yosinski,Yosinski,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Torralba,Torralba,Person,http://www.wikidata.org/entity/Q37488875,Torralba,family name,1.0,MATCHED
+http://ai-kb.local/entity/Sastry,Sastry,Person,http://www.wikidata.org/entity/Q37204424,Sastry,family name,1.0,MATCHED
+http://ai-kb.local/entity/Crespi,Crespi,Person,http://www.wikidata.org/entity/Q28811016,Crespi,family name,1.0,MATCHED
+http://ai-kb.local/entity/Athalye,Athalye,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Juliani,Juliani,Person,http://www.wikidata.org/entity/Q37166848,Juliani,family name,1.0,MATCHED
+http://ai-kb.local/entity/Szegedy,Szegedy,Person,http://www.wikidata.org/entity/Q124737674,Szegedy,family name,1.0,MATCHED
+http://ai-kb.local/entity/Chan,Chan,Person,http://www.wikidata.org/entity/Q29011444,Chan,family name,1.0,MATCHED
+http://ai-kb.local/entity/ThomasKipf,Thomas Kipf,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Mikolov,Mikolov,Person,http://www.wikidata.org/entity/Q132906362,Mikolov,family name,1.0,MATCHED
+http://ai-kb.local/entity/Vanhoucke,Vanhoucke,Person,http://www.wikidata.org/entity/Q98208826,Vanhoucke,family name,1.0,MATCHED
+http://ai-kb.local/entity/Uszkoreit,Uszkoreit,Person,http://www.wikidata.org/entity/Q83382923,Uszkoreit,family name,1.0,MATCHED
+http://ai-kb.local/entity/Berges,Berges,Person,http://www.wikidata.org/entity/Q12785740,Berges,family name,1.0,MATCHED
+http://ai-kb.local/entity/Barrett,Barrett,Person,http://www.wikidata.org/entity/Q27220872,Barrett,male given name,1.0,MATCHED
+http://ai-kb.local/entity/DanielaAmodei,Daniela Amodei,Person,http://www.wikidata.org/entity/Q119721378,Daniela Amodei,president and co-founder of Anthropic,1.0,MATCHED
+http://ai-kb.local/entity/NickCammarata,Nick Cammarata†,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Wang,Wang,Person,http://www.wikidata.org/entity/Q11573145,Wang,family name,1.0,MATCHED
+http://ai-kb.local/entity/Nielsen,Nielsen,Person,http://www.wikidata.org/entity/Q16511256,Nielsen,family name,1.0,MATCHED
+http://ai-kb.local/entity/AnirbanSantara,Anirban Santara,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/PranavShyam,Pranav Shyam,Person,http://www.wikidata.org/entity/Q115662093,Pranav Shyam,researcher,1.0,MATCHED
+http://ai-kb.local/entity/Rabinowitz,Rabinowitz,Person,http://www.wikidata.org/entity/Q21491987,Rabinowitz,family name,1.0,MATCHED
+http://ai-kb.local/entity/SamGreydanus,Sam Greydanus,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Vedaldi,Vedaldi,Person,http://www.wikidata.org/entity/Q106030664,Vedaldi,family name,1.0,MATCHED
+http://ai-kb.local/entity/Fergus,Fergus,Person,http://www.wikidata.org/entity/Q9301693,Fergus,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Erhan,Erhan,Person,http://www.wikidata.org/entity/Q20000089,Erhan,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Tsipras,Tsipras,Person,http://www.wikidata.org/entity/Q117793444,Tsipras,family name,1.0,MATCHED
+http://ai-kb.local/entity/Michael,Michael,Person,http://www.wikidata.org/entity/Q4927524,Michael,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Hercig,Hercig,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Karlen,Karlen,Person,http://www.wikidata.org/entity/Q56244031,Karlen,family name,1.0,MATCHED
+http://ai-kb.local/entity/Nick,Nick,Person,http://www.wikidata.org/entity/Q13137230,Nick,male given name,1.0,MATCHED
+http://ai-kb.local/entity/Zou,Zou,Person,http://www.wikidata.org/entity/Q4505446,Zou,Chinese family name (鄒/邹),1.0,MATCHED
+http://ai-kb.local/entity/Karras,Karras,Person,http://www.wikidata.org/entity/Q56244571,Karras,family name,1.0,MATCHED
+http://ai-kb.local/entity/Dunning,Dunning,Person,http://www.wikidata.org/entity/Q21484695,Dunning,family name,1.0,MATCHED
+http://ai-kb.local/entity/Gupta,Gupta,Person,http://www.wikidata.org/entity/Q3632770,Gupta,family name,1.0,MATCHED
+http://ai-kb.local/entity/Trump,Trump,Person,http://www.wikidata.org/entity/Q16944413,Trump,family name,1.0,MATCHED
+http://ai-kb.local/entity/Togelius,Togelius,Person,http://www.wikidata.org/entity/Q47266238,Togelius,family name,1.0,MATCHED
+http://ai-kb.local/entity/Zweig,Zweig,Person,http://www.wikidata.org/entity/Q21448104,Zweig,family name,1.0,MATCHED
+http://ai-kb.local/entity/Jiang,Jiang,Person,http://www.wikidata.org/entity/Q3498693,Jiang,Chinese family name (江),1.0,MATCHED
+http://ai-kb.local/entity/Dahne,Dahne,Person,http://www.wikidata.org/entity/Q37007847,Dahne,family name,1.0,MATCHED
+http://ai-kb.local/entity/Reed,Reed,Person,http://www.wikidata.org/entity/Q2136484,Reed,family name,1.0,MATCHED
+http://ai-kb.local/entity/ChrisOlah,Chris Olah,Person,http://www.wikidata.org/entity/Q50358648,Chris Olah,artificial intelligence researcher,1.0,MATCHED
+http://ai-kb.local/entity/BalaramanRavindran,Balaraman Ravindran,Person,http://www.wikidata.org/entity/Q102342713,Balaraman Ravindran,Ph.D. University of Massachusetts Amherst 2004,1.0,MATCHED
+http://ai-kb.local/entity/GauravAggarwal,Gaurav Aggarwal,Person,http://www.wikidata.org/entity/Q92073337,Gaurav Aggarwal,researcher (ORCID 0000-0002-8180-9287),1.0,MATCHED
+http://ai-kb.local/entity/Hashme,Hashme,Person,,Hashmēt,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Gilmer,Gilmer,Person,http://www.wikidata.org/entity/Q16870192,Gilmer,family name,1.0,MATCHED
+http://ai-kb.local/entity/Andrychowicz,Andrychowicz,Person,http://www.wikidata.org/entity/Q118089445,Andrychowicz,family name,1.0,MATCHED
+http://ai-kb.local/entity/Weston,Weston,Person,http://www.wikidata.org/entity/Q14966209,Weston,family name,1.0,MATCHED
+http://ai-kb.local/entity/Radford,Radford,Person,http://www.wikidata.org/entity/Q42589369,Radford,given name,1.0,MATCHED
+http://ai-kb.local/entity/MiraMurati,Mira Murati,Person,http://www.wikidata.org/entity/Q116706551,Mira Murati,Albanian-American business executive (born 1988),1.0,MATCHED
+http://ai-kb.local/entity/Hooker,Hooker,Person,http://www.wikidata.org/entity/Q16870868,Hooker,family name,1.0,MATCHED
+http://ai-kb.local/entity/Bau,Bau,Person,http://www.wikidata.org/entity/Q12475386,Bau,"village in North Morowali Regency, Central Sulawesi, Indonesia",1.0,MATCHED
+http://ai-kb.local/entity/Santurkar,Santurkar,Person,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Shan,Shan,Person,http://www.wikidata.org/entity/Q20001236,Shan,unisex given name,1.0,MATCHED
+http://ai-kb.local/entity/TheNationalAcademyOfSciences,the National Academy of Sciences,Organization,http://www.wikidata.org/entity/Q56431566,The National Academy of Sciences,article published in 1978,1.0,MATCHED
+http://ai-kb.local/entity/IeeeConferenceOn,IEEE Conference on,Organization,,IEEE Conference on Mass Storage Systems and Technologies,,0.375,NOT_FOUND
+http://ai-kb.local/entity/Github,GitHub,Organization,http://www.wikidata.org/entity/Q364,GitHub,hosting service for software projects using Git,1.0,MATCHED
+http://ai-kb.local/entity/Distill,Distill,Organization,http://www.wikidata.org/entity/Q36437840,Distill,academic journal,1.0,MATCHED
+http://ai-kb.local/entity/NationalAcadSciences,National Acad Sciences,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/AmericanAssociationForTheAdvancementOfScience,American Association for the Advancement of Science,Organization,http://www.wikidata.org/entity/Q40358,American Association for the Advancement of Science,international non-profit organization promoting science,1.0,MATCHED
+http://ai-kb.local/entity/AbbeelP,"Abbeel, P.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/BellemareM,"Bellemare, M.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/BrownT,"Brown, T.",Organization,,"Brown, T. Bryant",,0.667,NOT_FOUND
+http://ai-kb.local/entity/FischerQ,"Fischer, Q.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/MitPress,MIT Press,Organization,http://www.wikidata.org/entity/Q73820,The MIT Press,American university press,0.767,MATCHED
+http://ai-kb.local/entity/CarterS,"Carter, S.",Organization,,"Carter, S. Facilitating Learning in Healthcare. Pharmaceutical Press; 2011, 142pp, $55 (paperback), ISBN 9780853699545.",,0.143,NOT_FOUND
+http://ai-kb.local/entity/Corr,CoRR,Organization,http://www.wikidata.org/entity/Q21483046,Corr,family name,1.0,MATCHED
+http://ai-kb.local/entity/Polysemy,polysemy,Organization,http://www.wikidata.org/entity/Q191928,polysemy,capacity for a sign to have multiple related meanings,1.0,MATCHED
+http://ai-kb.local/entity/CammarataN,"Cammarata, N.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/UniversityOfMontreal,University of Montreal,Organization,,University of Montreal Health Centre,,0.6,NOT_FOUND
+http://ai-kb.local/entity/QiuS,"Qiu, S.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Facebook,Facebook,Organization,http://www.wikidata.org/entity/Q355,Facebook,American online social media and social networking service,1.0,MATCHED
+http://ai-kb.local/entity/Procgen,Procgen,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/DennisonC,"Dennison, C.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/RupprechtC,"Rupprecht, C.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/GoogleResearch,Google Research,Organization,http://www.wikidata.org/entity/Q28943742,Google Research,corporate research teams at Google,1.0,MATCHED
+http://ai-kb.local/entity/Neuron,Neuron,Organization,http://www.wikidata.org/entity/Q3338676,Neuron,journal,1.0,MATCHED
+http://ai-kb.local/entity/Imagenet,ImageNet,Organization,http://www.wikidata.org/entity/Q24901201,ImageNet,image dataset,1.0,MATCHED
+http://ai-kb.local/entity/BernerC,"Berner, C.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/FreemanWt,"Freeman, W.T.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Impala,IMPALA,Organization,http://www.wikidata.org/entity/Q132576,impala,species of mammal,1.0,MATCHED
+http://ai-kb.local/entity/Springer,Springer,Organization,http://www.wikidata.org/entity/Q16883693,Springer,family name,1.0,MATCHED
+http://ai-kb.local/entity/HesseC,"Hesse, C.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Elsevier,Elsevier,Organization,http://www.wikidata.org/entity/Q746413,Elsevier,Dutch publishing and analytics company,1.0,MATCHED
+http://ai-kb.local/entity/Ieee,IEEE,Organization,,IEEE Transactions on Information Theory,,0.2,NOT_FOUND
+http://ai-kb.local/entity/CaricaturesCammerata,Caricatures Cammerata,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Nature,Nature,Organization,http://www.wikidata.org/entity/Q180445,Nature,British scientific journal since 1869,1.0,MATCHED
+http://ai-kb.local/entity/Cnns,CNNs,Organization,http://www.wikidata.org/entity/Q77877999,CNNS,Slovak company,1.0,MATCHED
+http://ai-kb.local/entity/Openai,OpenAI,Organization,http://www.wikidata.org/entity/Q21708200,OpenAI,American artificial intelligence research organization,1.0,MATCHED
+http://ai-kb.local/entity/LehmanJ,"Lehman, J.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Arxiv,arXiv,Organization,http://www.wikidata.org/entity/Q118398,arXiv,online digital archive for electronic preprints of scientific papers,1.0,MATCHED
+http://ai-kb.local/entity/ArmstrongZ,"Armstrong, Z.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/KaiserL,"Kaiser, L.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/ColoringForColorblindness,Coloring for Colorblindness,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/GoogleResearchBlog,Google Research Blog,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Cnn,CNN,Organization,http://www.wikidata.org/entity/Q48340,CNN,American news channel,1.0,MATCHED
+http://ai-kb.local/entity/GoogleResearchIndia,Google Research India,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/JohnsonIAndOlah,"Johnson, I. and Olah",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/SchubertL,"Schubert, L.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Colab,Colab,Organization,http://www.wikidata.org/entity/Q124064224,CoLab,2016 video game,1.0,MATCHED
+http://ai-kb.local/entity/Observablehq,ObservableHQ,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Coinrun,CoinRun,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/PetrovM,"Petrov, M.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/TrendsInCognitiveSciences,Trends in cognitive sciences,Organization,http://www.wikidata.org/entity/Q7838299,Trends in Cognitive Sciences,scientific journal,1.0,MATCHED
+http://ai-kb.local/entity/NaturePublishingGroup,Nature Publishing Group,Organization,,Nature Publishing Group wins long-running libel trial,,0.429,NOT_FOUND
+http://ai-kb.local/entity/WillcoxG,"Willcox, G.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/KindermansP,"Kindermans, P.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Twitter,Twitter,Organization,http://www.wikidata.org/entity/Q1390577,Twitter,defunct American social media company,1.0,MATCHED
+http://ai-kb.local/entity/Atari,Atari,Organization,http://www.wikidata.org/entity/Q207922,Atari,brand name owned by Atari Interactive,1.0,MATCHED
+http://ai-kb.local/entity/IeeeComputerSociety,IEEE computer society,Organization,http://www.wikidata.org/entity/Q669561,IEEE Computer Society,organization,1.0,MATCHED
+http://ai-kb.local/entity/JournalOfExperimentalPsychology,Journal of experimental psychology,Organization,http://www.wikidata.org/entity/Q27711478,Journal of experimental psychology,journal,1.0,MATCHED
+http://ai-kb.local/entity/SagePublications,Sage Publications,Organization,,SAGE Publishing,,0.333,NOT_FOUND
+http://ai-kb.local/entity/TransactionalAnalysisJournal,Transactional Analysis Journal,Organization,http://www.wikidata.org/entity/Q58236122,Transactional Analysis Journal,journal,1.0,MATCHED
+http://ai-kb.local/entity/Science,Science,Organization,http://www.wikidata.org/entity/Q192864,Science,academic journal of the American Association for the Advancement of Science,1.0,MATCHED
+http://ai-kb.local/entity/NatureReviewsNeuroscience,Nature Reviews Neuroscience,Organization,http://www.wikidata.org/entity/Q2108225,Nature Reviews Neuroscience,peer-reviewed scientific journal,1.0,MATCHED
+http://ai-kb.local/entity/CurveDetectors,Curve Detectors,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/NyklM,"Nykl, M.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/TenenbaumJb,"Tenenbaum, J.B.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/SanturkarS,"Santurkar, S.,",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/PainoA,"Paino, A.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/StroopJr,"Stroop, J.R.,",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/CurrentBiology,Current Biology,Organization,http://www.wikidata.org/entity/Q1144851,Current Biology,scientific journal,1.0,MATCHED
+http://ai-kb.local/entity/TheAssociationForComputationalLinguistics,the Association for Computational Linguistics,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/OlahC,"Olah, C.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/PsychologicalReviewCompany,Psychological Review Company,Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/JournalOfMachineLearning,Journal of machine learning,Organization,http://www.wikidata.org/entity/Q1660383,Journal of Machine Learning Research,journal,0.8,MATCHED
+http://ai-kb.local/entity/WikimediaCommons,Wikimedia Commons,Organization,http://www.wikidata.org/entity/Q565,Wikimedia Commons,"online repository of free-use image, audio, and other media files",1.0,MATCHED
+http://ai-kb.local/entity/KonkolM,"Konkol, M.",Organization,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Cj,C.J.,GeopoliticalEntity,,Karl Maximovich,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Sm,S.M.,GeopoliticalEntity,,Master of Science,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Rd,"R.D.,",GeopoliticalEntity,,none,,0.0,NOT_FOUND
+http://ai-kb.local/entity/Nc,N.C.,GeopoliticalEntity,,North Carolina,,0.1,NOT_FOUND
+http://ai-kb.local/entity/LosAngeles,Los Angeles,GeopoliticalEntity,http://www.wikidata.org/entity/Q65,Los Angeles,"seat of Los Angeles County, and largest city in California, United States",1.0,MATCHED
+http://ai-kb.local/entity/As,A.S.,GeopoliticalEntity,,akciová spoločnosť,,0.0,NOT_FOUND

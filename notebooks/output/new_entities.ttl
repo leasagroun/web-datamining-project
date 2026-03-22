@@ -1,0 +1,388 @@
+@prefix local: <http://ai-kb.local/entity/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+local:AbbeelP a owl:NamedIndividual ;
+    rdfs:label "Abbeel, P."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:AlexanderLenails a owl:NamedIndividual ;
+    rdfs:label "Alexander Lenail’s"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:AmeyaDaigavane a owl:NamedIndividual ;
+    rdfs:label "Ameya Daigavane"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:AnirbanSantara a owl:NamedIndividual ;
+    rdfs:label "Anirban Santara"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:AnshKhurana a owl:NamedIndividual ;
+    rdfs:label "Ansh Khurana"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:ArmstrongZ a owl:NamedIndividual ;
+    rdfs:label "Armstrong, Z."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:As a owl:NamedIndividual ;
+    rdfs:label "A.S."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:AshishTendulkar a owl:NamedIndividual ;
+    rdfs:label "Ashish Tendulkar"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Askell a owl:NamedIndividual ;
+    rdfs:label "Askell"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Athalye a owl:NamedIndividual ;
+    rdfs:label "Athalye"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Batra a owl:NamedIndividual ;
+    rdfs:label "Batra"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:BellemareM a owl:NamedIndividual ;
+    rdfs:label "Bellemare, M."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:BenMillwood a owl:NamedIndividual ;
+    rdfs:label "Ben Millwood"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:BernerC a owl:NamedIndividual ;
+    rdfs:label "Berner, C."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Bolukbasi a owl:NamedIndividual ;
+    rdfs:label "Bolukbasi"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Bottou a owl:NamedIndividual ;
+    rdfs:label "Bottou"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:BriceMenard a owl:NamedIndividual ;
+    rdfs:label "Brice Menard"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:BrownT a owl:NamedIndividual ;
+    rdfs:label "Brown, T."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:CammarataN a owl:NamedIndividual ;
+    rdfs:label "Cammarata, N."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:CaricaturesCammerata a owl:NamedIndividual ;
+    rdfs:label "Caricatures Cammerata"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:CarterS a owl:NamedIndividual ;
+    rdfs:label "Carter, S."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:ChelseaVoss a owl:NamedIndividual ;
+    rdfs:label "Chelsea Voss†"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Cj a owl:NamedIndividual ;
+    rdfs:label "C.J."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Coinrun a owl:NamedIndividual ;
+    rdfs:label "CoinRun"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:ColoringForColorblindness a owl:NamedIndividual ;
+    rdfs:label "Coloring for Colorblindness"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:CurveDetectors a owl:NamedIndividual ;
+    rdfs:label "Curve Detectors"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Daigavane a owl:NamedIndividual ;
+    rdfs:label "Daigavane"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:DanielFilan a owl:NamedIndividual ;
+    rdfs:label "Daniel Filan"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:DennisonC a owl:NamedIndividual ;
+    rdfs:label "Dennison, C."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Dosovitskiy a owl:NamedIndividual ;
+    rdfs:label "Dosovitskiy"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Espeholt a owl:NamedIndividual ;
+    rdfs:label "Espeholt"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:FischerQ a owl:NamedIndividual ;
+    rdfs:label "Fischer, Q."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:FreemanWt a owl:NamedIndividual ;
+    rdfs:label "Freeman, W.T."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Goh a owl:NamedIndividual ;
+    rdfs:label "Goh"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:GoogleResearchBlog a owl:NamedIndividual ;
+    rdfs:label "Google Research Blog"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:GoogleResearchIndia a owl:NamedIndividual ;
+    rdfs:label "Google Research India"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Hashme a owl:NamedIndividual ;
+    rdfs:label "Hashme"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Hendrycks a owl:NamedIndividual ;
+    rdfs:label "Hendrycks"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Hercig a owl:NamedIndividual ;
+    rdfs:label "Hercig"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:HesseC a owl:NamedIndividual ;
+    rdfs:label "Hesse, C."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Ieee a owl:NamedIndividual ;
+    rdfs:label "IEEE"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:IeeeConferenceOn a owl:NamedIndividual ;
+    rdfs:label "IEEE Conference on"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:JacobHilton a owl:NamedIndividual ;
+    rdfs:label "Jacob Hilton"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:JohnsonIAndOlah a owl:NamedIndividual ;
+    rdfs:label "Johnson, I. and Olah"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:JonathanUesato a owl:NamedIndividual ;
+    rdfs:label "Jonathan Uesato"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:JorgeOrbay a owl:NamedIndividual ;
+    rdfs:label "Jorge Orbay"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:KaiserL a owl:NamedIndividual ;
+    rdfs:label "Kaiser, L."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:KarlCobbe a owl:NamedIndividual ;
+    rdfs:label "Karl Cobbe"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Kavukcuoglu a owl:NamedIndividual ;
+    rdfs:label "Kavukcuoglu"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:KindermansP a owl:NamedIndividual ;
+    rdfs:label "Kindermans, P."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:KonkolM a owl:NamedIndividual ;
+    rdfs:label "Konkol, M."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Lapedriza a owl:NamedIndividual ;
+    rdfs:label "Lapedriza"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:LehmanJ a owl:NamedIndividual ;
+    rdfs:label "Lehman, J."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Liebana a owl:NamedIndividual ;
+    rdfs:label "Liebana"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Makelov a owl:NamedIndividual ;
+    rdfs:label "Makelov"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Mnih a owl:NamedIndividual ;
+    rdfs:label "Mnih"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Mordvintsev a owl:NamedIndividual ;
+    rdfs:label "Mordvintsev"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Nakkiran a owl:NamedIndividual ;
+    rdfs:label "Nakkiran"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:NationalAcadSciences a owl:NamedIndividual ;
+    rdfs:label "National Acad Sciences"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:NaturePublishingGroup a owl:NamedIndividual ;
+    rdfs:label "Nature Publishing Group"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Nc a owl:NamedIndividual ;
+    rdfs:label "N.C."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:NevanWichers a owl:NamedIndividual ;
+    rdfs:label "Nevan Wichers"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:NickCammarata a owl:NamedIndividual ;
+    rdfs:label "Nick Cammarata†"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:NyklM a owl:NamedIndividual ;
+    rdfs:label "Nykl, M."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Observablehq a owl:NamedIndividual ;
+    rdfs:label "ObservableHQ"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:OlahC a owl:NamedIndividual ;
+    rdfs:label "Olah, C."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:PainoA a owl:NamedIndividual ;
+    rdfs:label "Paino, A."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:PetrovM a owl:NamedIndividual ;
+    rdfs:label "Petrov, M."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Polosukhin a owl:NamedIndividual ;
+    rdfs:label "Polosukhin"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Procgen a owl:NamedIndividual ;
+    rdfs:label "Procgen"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:PsychologicalReviewCompany a owl:NamedIndividual ;
+    rdfs:label "Psychological Review Company"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:QiuS a owl:NamedIndividual ;
+    rdfs:label "Qiu, S."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Rd a owl:NamedIndividual ;
+    rdfs:label "R.D.,"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:ReiichiroNakano a owl:NamedIndividual ;
+    rdfs:label "Reiichiro Nakano"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Risteski a owl:NamedIndividual ;
+    rdfs:label "Risteski"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:RupprechtC a owl:NamedIndividual ;
+    rdfs:label "Rupprecht, C."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:SagePublications a owl:NamedIndividual ;
+    rdfs:label "Sage Publications"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:SamGreydanus a owl:NamedIndividual ;
+    rdfs:label "Sam Greydanus"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Santurkar a owl:NamedIndividual ;
+    rdfs:label "Santurkar"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:SanturkarS a owl:NamedIndividual ;
+    rdfs:label "Santurkar, S.,"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Satyanarayan a owl:NamedIndividual ;
+    rdfs:label "Satyanarayan"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:SchubertL a owl:NamedIndividual ;
+    rdfs:label "Schubert, L."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Sermanet a owl:NamedIndividual ;
+    rdfs:label "Sermanet"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Shazeer a owl:NamedIndividual ;
+    rdfs:label "Shazeer"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Sm a owl:NamedIndividual ;
+    rdfs:label "S.M."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:SteveDowling a owl:NamedIndividual ;
+    rdfs:label "Steve Dowling"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:StroopJr a owl:NamedIndividual ;
+    rdfs:label "Stroop, J.R.,"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:TenenbaumJb a owl:NamedIndividual ;
+    rdfs:label "Tenenbaum, J.B."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:TheAssociationForComputationalLinguistics a owl:NamedIndividual ;
+    rdfs:label "the Association for Computational Linguistics"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:ThomasKipf a owl:NamedIndividual ;
+    rdfs:label "Thomas Kipf"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:UniversityOfMontreal a owl:NamedIndividual ;
+    rdfs:label "University of Montreal"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Vedantam a owl:NamedIndividual ;
+    rdfs:label "Vedantam"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:WillcoxG a owl:NamedIndividual ;
+    rdfs:label "Willcox, G."@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Winn a owl:NamedIndividual ;
+    rdfs:label "Winn"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Yosinski a owl:NamedIndividual ;
+    rdfs:label "Yosinski"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+
+local:Zhang a owl:NamedIndividual ;
+    rdfs:label "Zhang,"@en ;
+    rdfs:comment "Entity from AI research domain, not found in Wikidata"@en .
+

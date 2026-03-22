@@ -1,0 +1,2679 @@
+@prefix local: <http://ai-kb.local/entity/> .
+@prefix onto: <http://ai-kb.local/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+local:AdamPearce a onto:Person ;
+    rdfs:label "Adam Pearce"@en ;
+    onto:entityLabel "Adam Pearce" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:GoogleResearch .
+
+local:Akkaya a onto:Person ;
+    rdfs:label "Akkaya"@en ;
+    onto:entityLabel "Akkaya" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Andrychowicz .
+
+local:AlexanderLenails a onto:Person ;
+    rdfs:label "Alexander Lenail’s"@en ;
+    onto:entityLabel "Alexander Lenail’s" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:AmericanAssociationForTheAdvancementOfScience a onto:Organization ;
+    rdfs:label "American Association for the Advancement of Science"@en ;
+    onto:entityLabel "American Association for the Advancement of Science" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:AmeyaDaigavane a onto:Person ;
+    rdfs:label "Ameya Daigavane"@en ;
+    onto:entityLabel "Ameya Daigavane" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:AnirbanSantara a onto:Person ;
+    rdfs:label "Anirban Santara"@en ;
+    onto:entityLabel "Anirban Santara" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:SujoyPaul .
+
+local:Arxiv a onto:Organization ;
+    rdfs:label "arXiv"@en ;
+    onto:entityLabel "arXiv" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Olah,
+        local:Selvaraju,
+        local:Zeiler .
+
+local:AshishTendulkar a onto:Person ;
+    rdfs:label "Ashish Tendulkar"@en ;
+    onto:entityLabel "Ashish Tendulkar" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:GoogleResearchIndia .
+
+local:Atari a onto:Organization ;
+    rdfs:label "Atari"@en ;
+    onto:entityLabel "Atari" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Greydanus .
+
+local:Athalye a onto:Person ;
+    rdfs:label "Athalye"@en ;
+    onto:entityLabel "Athalye" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Engstrom .
+
+local:BalaramanRavindran a onto:Person ;
+    rdfs:label "Balaraman Ravindran"@en ;
+    onto:entityLabel "Balaraman Ravindran" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:GauravAggarwal .
+
+local:Barrett a onto:Person ;
+    rdfs:label "Barrett"@en ;
+    onto:entityLabel "Barrett" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Adolphs .
+
+local:Bau a onto:Person ;
+    rdfs:label "Bau"@en ;
+    onto:entityLabel "Bau" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Zhou .
+
+local:BernerC a onto:Organization ;
+    rdfs:label "Berner, C."@en ;
+    onto:entityLabel "Berner, C." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Brockman .
+
+local:Bolukbasi a onto:Person ;
+    rdfs:label "Bolukbasi"@en ;
+    onto:entityLabel "Bolukbasi" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Chang .
+
+local:BrownT a onto:Organization ;
+    rdfs:label "Brown, T."@en ;
+    onto:entityLabel "Brown, T." ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Mane .
+
+local:CaricaturesCammerata a onto:Organization ;
+    rdfs:label "Caricatures Cammerata"@en ;
+    onto:entityLabel "Caricatures Cammerata" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Olah .
+
+local:ChaitanyaKJoshi a onto:Person ;
+    rdfs:label "Chaitanya K. Joshi"@en ;
+    onto:entityLabel "Chaitanya K. Joshi" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:NickMoran .
+
+local:ChrisOlah a onto:Person ;
+    rdfs:label "Chris Olah"@en ;
+    onto:entityLabel "Chris Olah" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Gabe .
+
+local:Cnn a onto:Organization ;
+    rdfs:label "CNN"@en ;
+    onto:entityLabel "CNN" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Cnns a onto:Organization ;
+    rdfs:label "CNNs"@en ;
+    onto:entityLabel "CNNs" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Cobbe a onto:Person ;
+    rdfs:label "Cobbe"@en ;
+    onto:entityLabel "Cobbe" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Hesse,
+        local:K .
+
+local:Colab a onto:Organization ;
+    rdfs:label "Colab"@en ;
+    onto:entityLabel "Colab" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Collobert a onto:Person ;
+    rdfs:label "Collobert"@en ;
+    onto:entityLabel "Collobert" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Weston .
+
+local:Corr a onto:Organization ;
+    rdfs:label "CoRR"@en ;
+    onto:entityLabel "CoRR" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:CurrentBiology a onto:Organization ;
+    rdfs:label "Current Biology"@en ;
+    onto:entityLabel "Current Biology" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:CurveDetectors a onto:Organization ;
+    rdfs:label "Curve Detectors"@en ;
+    onto:entityLabel "Curve Detectors" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:CammarataN .
+
+local:Daigavane a onto:Person ;
+    rdfs:label "Daigavane"@en ;
+    onto:entityLabel "Daigavane" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:Ameya,
+        local:Distill .
+
+local:DavidNichols a onto:Person ;
+    rdfs:label "David Nichols"@en ;
+    onto:entityLabel "David Nichols" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:ColoringForColorblindness .
+
+local:Deng a onto:Person ;
+    rdfs:label "Deng"@en ;
+    onto:entityLabel "Deng" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Dong .
+
+local:Dicarlo a onto:Person ;
+    rdfs:label "DiCarlo"@en ;
+    onto:entityLabel "DiCarlo" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Zoccolan .
+
+local:Elsevier a onto:Organization ;
+    rdfs:label "Elsevier"@en ;
+    onto:entityLabel "Elsevier" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Espeholt a onto:Person ;
+    rdfs:label "Espeholt"@en ;
+    onto:entityLabel "Espeholt" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:L .
+
+local:Everingham a onto:Person ;
+    rdfs:label "Everingham"@en ;
+    onto:entityLabel "Everingham" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Williams .
+
+local:Facebook a onto:Organization ;
+    rdfs:label "Facebook"@en ;
+    onto:entityLabel "Facebook" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:Twitter .
+
+local:Fong a onto:Person ;
+    rdfs:label "Fong"@en ;
+    onto:entityLabel "Fong" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Vedaldi .
+
+local:GoogleResearchBlog a onto:Organization ;
+    rdfs:label "Google Research Blog"@en ;
+    onto:entityLabel "Google Research Blog" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Ieee a onto:Organization ;
+    rdfs:label "IEEE"@en ;
+    onto:entityLabel "IEEE" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:IeeeConferenceOn a onto:Organization ;
+    rdfs:label "IEEE Conference on"@en ;
+    onto:entityLabel "IEEE Conference on" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:Imagenet a onto:Organization ;
+    rdfs:label "ImageNet"@en ;
+    onto:entityLabel "ImageNet" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:Impala a onto:Organization ;
+    rdfs:label "IMPALA"@en ;
+    onto:entityLabel "IMPALA" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:JacobHilton a onto:Person ;
+    rdfs:label "Jacob Hilton"@en ;
+    onto:entityLabel "Jacob Hilton" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:Jaderberg a onto:Person ;
+    rdfs:label "Jaderberg"@en ;
+    onto:entityLabel "Jaderberg" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Czarnecki .
+
+local:JonathanUesato a onto:Person ;
+    rdfs:label "Jonathan Uesato"@en ;
+    onto:entityLabel "Jonathan Uesato" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:JoelLehman .
+
+local:JournalOfMachineLearning a onto:Organization ;
+    rdfs:label "Journal of machine learning"@en ;
+    onto:entityLabel "Journal of machine learning" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Juliani a onto:Person ;
+    rdfs:label "Juliani"@en ;
+    onto:entityLabel "Juliani" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Khalifa .
+
+local:Karkkainen a onto:Person ;
+    rdfs:label "Kärkkäinen"@en ;
+    onto:entityLabel "Kärkkäinen" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Joo .
+
+local:KarlCobbe a onto:Person ;
+    rdfs:label "Karl Cobbe"@en ;
+    onto:entityLabel "Karl Cobbe" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:DanielFilan .
+
+local:Karpathy a onto:Person ;
+    rdfs:label "Karpathy"@en ;
+    onto:entityLabel "Karpathy" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Johnson .
+
+local:Karras a onto:Person ;
+    rdfs:label "Karras"@en ;
+    onto:entityLabel "Karras" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Laine .
+
+local:KindermansP a onto:Organization ;
+    rdfs:label "Kindermans, P."@en ;
+    onto:entityLabel "Kindermans, P." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Hooker,
+        local:Schutt .
+
+local:KonkolM a onto:Organization ;
+    rdfs:label "Konkol, M."@en ;
+    onto:entityLabel "Konkol, M." ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:NyklM .
+
+local:Krishnan a onto:Person ;
+    rdfs:label "Krishnan"@en ;
+    onto:entityLabel "Krishnan" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Isola .
+
+local:MichaelPetrov a onto:Person ;
+    rdfs:label "Michael Petrov"@en ;
+    onto:entityLabel "Michael Petrov" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Mikolov a onto:Person ;
+    rdfs:label "Mikolov"@en ;
+    onto:entityLabel "Mikolov" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Yih .
+
+local:MitPress a onto:Organization ;
+    rdfs:label "MIT Press"@en ;
+    onto:entityLabel "MIT Press" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:NationalAcadSciences a onto:Organization ;
+    rdfs:label "National Acad Sciences"@en ;
+    onto:entityLabel "National Acad Sciences" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:Nature a onto:Organization ;
+    rdfs:label "Nature"@en ;
+    onto:entityLabel "Nature" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:NaturePublishingGroup a onto:Organization ;
+    rdfs:label "Nature Publishing Group"@en ;
+    onto:entityLabel "Nature Publishing Group" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:NatureReviewsNeuroscience a onto:Organization ;
+    rdfs:label "Nature Reviews Neuroscience"@en ;
+    onto:entityLabel "Nature Reviews Neuroscience" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Neuron a onto:Organization ;
+    rdfs:label "Neuron"@en ;
+    onto:entityLabel "Neuron" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Nguyen a onto:Person ;
+    rdfs:label "Nguyen"@en ;
+    onto:entityLabel "Nguyen" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:A,
+        local:Clune,
+        local:Yosinski .
+
+local:Observablehq a onto:Organization ;
+    rdfs:label "ObservableHQ"@en ;
+    onto:entityLabel "ObservableHQ" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Ochshorn a onto:Person ;
+    rdfs:label "Ochshorn"@en ;
+    onto:entityLabel "Ochshorn" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Rm .
+
+local:Perez a onto:Person ;
+    rdfs:label "Perez"@en ;
+    onto:entityLabel "Perez" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Liebana .
+
+local:Polysemy a onto:Organization ;
+    rdfs:label "polysemy"@en ;
+    onto:entityLabel "polysemy" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Li .
+
+local:Procgen a onto:Organization ;
+    rdfs:label "Procgen"@en ;
+    onto:entityLabel "Procgen" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:PsychologicalReviewCompany a onto:Organization ;
+    rdfs:label "Psychological Review Company"@en ;
+    onto:entityLabel "Psychological Review Company" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Puri a onto:Person ;
+    rdfs:label "Puri"@en ;
+    onto:entityLabel "Puri" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:N .
+
+local:QiuS a onto:Organization ;
+    rdfs:label "Qiu, S."@en ;
+    onto:entityLabel "Qiu, S." ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2018 .
+
+local:Quiroga a onto:Person ;
+    rdfs:label "Quiroga"@en ;
+    onto:entityLabel "Quiroga" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2012,
+        local:Kraskov,
+        local:Kreiman,
+        local:Reddy .
+
+local:RecentTimes a onto:Date ;
+    rdfs:label "recent times"@en ;
+    onto:entityLabel "recent times" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:RupprechtC a onto:Organization ;
+    rdfs:label "Rupprecht, C."@en ;
+    onto:entityLabel "Rupprecht, C." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Ibrahim .
+
+local:SagePublications a onto:Organization ;
+    rdfs:label "Sage Publications"@en ;
+    onto:entityLabel "Sage Publications" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:LosAngeles .
+
+local:SandhiniAgarwal a onto:Person ;
+    rdfs:label "Sandhini Agarwal"@en ;
+    onto:entityLabel "Sandhini Agarwal" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:DanielaAmodei .
+
+local:Science a onto:Organization ;
+    rdfs:label "Science"@en ;
+    onto:entityLabel "Science" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:Sohn a onto:Person ;
+    rdfs:label "Sohn"@en ;
+    onto:entityLabel "Sohn" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2016 .
+
+local:Song a onto:Person ;
+    rdfs:label "Song"@en ;
+    onto:entityLabel "Song" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Jiang .
+
+local:Springenberg a onto:Person ;
+    rdfs:label "Springenberg"@en ;
+    onto:entityLabel "Springenberg" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Dosovitskiy .
+
+local:Springer a onto:Organization ;
+    rdfs:label "Springer"@en ;
+    onto:entityLabel "Springer" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:StroopJr a onto:Organization ;
+    rdfs:label "Stroop, J.R.,"@en ;
+    onto:entityLabel "Stroop, J.R.," ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:1935 .
+
+local:Such a onto:Person ;
+    rdfs:label "Such"@en ;
+    onto:entityLabel "Such" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Madhavan .
+
+local:Sundararajan a onto:Person ;
+    rdfs:label "Sundararajan"@en ;
+    onto:entityLabel "Sundararajan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Taly .
+
+local:Szegedy a onto:Person ;
+    rdfs:label "Szegedy"@en ;
+    onto:entityLabel "Szegedy" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:C,
+        local:Liu,
+        local:Zaremba .
+
+local:TenenbaumJb a onto:Organization ;
+    rdfs:label "Tenenbaum, J.B."@en ;
+    onto:entityLabel "Tenenbaum, J.B." ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:FreemanWt .
+
+local:TheNationalAcademyOfSciences a onto:Organization ;
+    rdfs:label "the National Academy of Sciences"@en ;
+    onto:entityLabel "the National Academy of Sciences" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:ThomasKipf a onto:Person ;
+    rdfs:label "Thomas Kipf"@en ;
+    onto:entityLabel "Thomas Kipf" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Today a onto:Date ;
+    rdfs:label "today"@en ;
+    onto:entityLabel "today" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:TransactionalAnalysisJournal a onto:Organization ;
+    rdfs:label "Transactional Analysis Journal"@en ;
+    onto:entityLabel "Transactional Analysis Journal" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:TrendsInCognitiveSciences a onto:Organization ;
+    rdfs:label "Trends in cognitive sciences"@en ;
+    onto:entityLabel "Trends in cognitive sciences" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Trump a onto:Person ;
+    rdfs:label "Trump"@en ;
+    onto:entityLabel "Trump" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:UniversityOfMontreal a onto:Organization ;
+    rdfs:label "University of Montreal"@en ;
+    onto:entityLabel "University of Montreal" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Vaswani a onto:Person ;
+    rdfs:label "Vaswani"@en ;
+    onto:entityLabel "Vaswani" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Shazeer .
+
+local:WikimediaCommons a onto:Organization ;
+    rdfs:label "Wikimedia Commons"@en ;
+    onto:entityLabel "Wikimedia Commons" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:WillcoxG a onto:Organization ;
+    rdfs:label "Willcox, G."@en ;
+    onto:entityLabel "Willcox, G." ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:1982 .
+
+local:Zhang a onto:Person ;
+    rdfs:label "Zhang,"@en ;
+    onto:entityLabel "Zhang," ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Ren .
+
+onto:Location a owl:Class ;
+    rdfs:label "Location"@en ;
+    rdfs:comment "A geographical location"@en .
+
+onto:entityLabel a owl:ObjectProperty ;
+    rdfs:label "entityLabel"@en ;
+    rdfs:comment "Raw surface form of the entity as extracted"@en .
+
+onto:extractedFrom a owl:DatatypeProperty,
+        owl:ObjectProperty ;
+    rdfs:label "extractedFrom"@en ;
+    rdfs:comment "Source URL from which this entity was extracted"@en ;
+    rdfs:range xsd:anyURI .
+
+onto:relatedTo a owl:ObjectProperty ;
+    rdfs:label "relatedTo"@en ;
+    rdfs:comment "Generic co-occurrence relation between entities"@en .
+
+local:1935 a onto:Date ;
+    rdfs:label "1935"@en ;
+    onto:entityLabel "1935" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:JournalOfExperimentalPsychology .
+
+local:1982 a onto:Date ;
+    rdfs:label "1982"@en ;
+    onto:entityLabel "1982" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:2000 a onto:Date ;
+    rdfs:label "2000"@en ;
+    onto:entityLabel "2000" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:2005 a onto:Date ;
+    rdfs:label "2005"@en ;
+    onto:entityLabel "2005" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:2008 a onto:Date ;
+    rdfs:label "2008"@en ;
+    onto:entityLabel "2008" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:2011 a onto:Date ;
+    rdfs:label "2011"@en ;
+    onto:entityLabel "2011" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Abadi a onto:Person ;
+    rdfs:label "Abadi"@en ;
+    onto:entityLabel "Abadi" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Gilmer .
+
+local:AbbeelP a onto:Organization ;
+    rdfs:label "Abbeel, P."@en ;
+    onto:entityLabel "Abbeel, P." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2015 .
+
+local:Adebayo a onto:Person ;
+    rdfs:label "Adebayo"@en ;
+    onto:entityLabel "Adebayo" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Alber .
+
+local:AdityaRamesh a onto:Person ;
+    rdfs:label "Aditya Ramesh"@en ;
+    onto:entityLabel "Aditya Ramesh" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:PranavShyam .
+
+local:Adolphs a onto:Person ;
+    rdfs:label "Adolphs"@en ;
+    onto:entityLabel "Adolphs" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Marsella .
+
+local:Agarwal a onto:Person ;
+    rdfs:label "Agarwal"@en ;
+    onto:entityLabel "Agarwal" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Sastry .
+
+local:Aggarwal a onto:Person ;
+    rdfs:label "Aggarwal"@en ;
+    onto:entityLabel "Aggarwal" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:Gaurav .
+
+local:Aila a onto:Person ;
+    rdfs:label "Aila"@en ;
+    onto:entityLabel "Aila" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Alec a onto:Person ;
+    rdfs:label "Alec"@en ;
+    onto:entityLabel "Alec" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Olah .
+
+local:AlecRadford a onto:Person ;
+    rdfs:label "Alec Radford"@en ;
+    onto:entityLabel "Alec Radford" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:AlexRay a onto:Person ;
+    rdfs:label "Alex Ray"@en ;
+    onto:entityLabel "Alex Ray" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:LudwigSchubert .
+
+local:Ameya a onto:Person ;
+    rdfs:label "Ameya"@en ;
+    onto:entityLabel "Ameya" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:Ravindran .
+
+local:Andrychowicz a onto:Person ;
+    rdfs:label "Andrychowicz"@en ;
+    onto:entityLabel "Andrychowicz" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Chociej .
+
+local:Anguelov a onto:Person ;
+    rdfs:label "Anguelov"@en ;
+    onto:entityLabel "Anguelov" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Erhan .
+
+local:AnshKhurana a onto:Person ;
+    rdfs:label "Ansh Khurana"@en ;
+    onto:entityLabel "Ansh Khurana" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:GoogleResearchIndia .
+
+local:ArmstrongZ a onto:Organization ;
+    rdfs:label "Armstrong, Z."@en ;
+    onto:entityLabel "Armstrong, Z." ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Schubert .
+
+local:As a onto:GeopoliticalEntity ;
+    rdfs:label "A.S."@en ;
+    onto:entityLabel "A.S." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Ruderman .
+
+local:Askell a onto:Person ;
+    rdfs:label "Askell"@en ;
+    onto:entityLabel "Askell" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Mishkin .
+
+local:B a onto:Entity ;
+    rdfs:label "B."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Singh .
+
+local:Balaraman a onto:Person ;
+    rdfs:label "Balaraman"@en ;
+    onto:entityLabel "Balaraman" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:Aggarwal .
+
+local:Batra a onto:Person ;
+    rdfs:label "Batra"@en ;
+    onto:entityLabel "Batra" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:D .
+
+local:Beattie a onto:Person ;
+    rdfs:label "Beattie"@en ;
+    onto:entityLabel "Beattie" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Rabinowitz .
+
+local:Belkin a onto:Person ;
+    rdfs:label "Belkin"@en ;
+    onto:entityLabel "Belkin" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:M .
+
+local:BellemareM a onto:Organization ;
+    rdfs:label "Bellemare, M."@en ;
+    onto:entityLabel "Bellemare, M." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Clune .
+
+local:BenMillwood a onto:Person ;
+    rdfs:label "Ben Millwood"@en ;
+    onto:entityLabel "Ben Millwood" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:KonstantinosMitsopoulos .
+
+local:Berges a onto:Person ;
+    rdfs:label "Berges"@en ;
+    onto:entityLabel "Berges" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:V .
+
+local:Bottou a onto:Person ;
+    rdfs:label "Bottou"@en ;
+    onto:entityLabel "Bottou" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:L .
+
+local:BriceMenard a onto:Person ;
+    rdfs:label "Brice Menard"@en ;
+    onto:entityLabel "Brice Menard" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:ReiichiroNakano .
+
+local:Brockman a onto:Person ;
+    rdfs:label "Brockman"@en ;
+    onto:entityLabel "Brockman" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Chan .
+
+local:Brox a onto:Person ;
+    rdfs:label "Brox"@en ;
+    onto:entityLabel "Brox" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Riedmiller .
+
+local:Bruna a onto:Person ;
+    rdfs:label "Bruna"@en ;
+    onto:entityLabel "Bruna" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Erhan,
+        local:J .
+
+local:Ca a onto:Entity ;
+    rdfs:label "CA"@en .
+
+local:CammarataN a onto:Organization ;
+    rdfs:label "Cammarata, N."@en ;
+    onto:entityLabel "Cammarata, N." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:CarterS,
+        local:Goh .
+
+local:CarterS a onto:Organization ;
+    rdfs:label "Carter, S."@en ;
+    onto:entityLabel "Carter, S." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:ArmstrongZ,
+        local:Goh .
+
+local:Castaneda a onto:Person ;
+    rdfs:label "Castaneda"@en ;
+    onto:entityLabel "Castaneda" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Beattie .
+
+local:Castro a onto:Person ;
+    rdfs:label "Castro"@en ;
+    onto:entityLabel "Castro" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Li .
+
+local:Chan a onto:Person ;
+    rdfs:label "Chan"@en ;
+    onto:entityLabel "Chan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Cheung .
+
+local:Chang a onto:Person ;
+    rdfs:label "Chang"@en ;
+    onto:entityLabel "Chang" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Zou .
+
+local:ChelseaVoss a onto:Person ;
+    rdfs:label "Chelsea Voss†"@en ;
+    onto:entityLabel "Chelsea Voss†" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Carter .
+
+local:Cheung a onto:Person ;
+    rdfs:label "Cheung"@en ;
+    onto:entityLabel "Cheung" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Debiak .
+
+local:Chociej a onto:Person ;
+    rdfs:label "Chociej"@en ;
+    onto:entityLabel "Chociej" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Litwin .
+
+local:Chris a onto:Person ;
+    rdfs:label "Chris"@en ;
+    onto:entityLabel "Chris" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2020,
+        local:2021 .
+
+local:ChristopherHesse a onto:Person ;
+    rdfs:label "Christopher Hesse"@en ;
+    onto:entityLabel "Christopher Hesse" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:JacobJackson .
+
+local:Cj a onto:GeopoliticalEntity ;
+    rdfs:label "C.J."@en ;
+    onto:entityLabel "C.J." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Clark a onto:Person ;
+    rdfs:label "Clark"@en ;
+    onto:entityLabel "Clark" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Krueger .
+
+local:Cogswell a onto:Person ;
+    rdfs:label "Cogswell"@en ;
+    onto:entityLabel "Cogswell" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:M .
+
+local:Coinrun a onto:Organization ;
+    rdfs:label "CoinRun"@en ;
+    onto:entityLabel "CoinRun" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:ShanCarter .
+
+local:ColoringForColorblindness a onto:Organization ;
+    rdfs:label "Coloring for Colorblindness"@en ;
+    onto:entityLabel "Coloring for Colorblindness" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Courville a onto:Person ;
+    rdfs:label "Courville"@en ;
+    onto:entityLabel "Courville" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Vincent .
+
+local:Crespi a onto:Person ;
+    rdfs:label "Crespi"@en ;
+    onto:entityLabel "Crespi" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Togelius .
+
+local:Czarnecki a onto:Person ;
+    rdfs:label "Czarnecki"@en ;
+    onto:entityLabel "Czarnecki" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Dunning .
+
+local:DanielFilan a onto:Person ;
+    rdfs:label "Daniel Filan"@en ;
+    onto:entityLabel "Daniel Filan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:SamGreydanus .
+
+local:DanielZiegler a onto:Person ;
+    rdfs:label "Daniel Ziegler"@en ;
+    onto:entityLabel "Daniel Ziegler" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:DanielaAmodei a onto:Person ;
+    rdfs:label "Daniela Amodei"@en ;
+    onto:entityLabel "Daniela Amodei" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:DarioAmodei .
+
+local:DarioAmodei a onto:Person ;
+    rdfs:label "Dario Amodei"@en ;
+    onto:entityLabel "Dario Amodei" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:TomBrown .
+
+local:Das a onto:Person ;
+    rdfs:label "Das"@en ;
+    onto:entityLabel "Das" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:A .
+
+local:Debiak a onto:Person ;
+    rdfs:label "Dębiak"@en ;
+    onto:entityLabel "Dębiak" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:DennisonC .
+
+local:DennisonC a onto:Organization ;
+    rdfs:label "Dennison, C."@en ;
+    onto:entityLabel "Dennison, C." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Farhi .
+
+local:Deshmukh a onto:Person ;
+    rdfs:label "Deshmukh"@en ;
+    onto:entityLabel "Deshmukh" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:S .
+
+local:Dhariwal a onto:Person ;
+    rdfs:label "Dhariwal"@en ;
+    onto:entityLabel "Dhariwal" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Radford .
+
+local:Dodge a onto:Person ;
+    rdfs:label "Dodge"@en ;
+    onto:entityLabel "Dodge" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Fern .
+
+local:Dong a onto:Person ;
+    rdfs:label "Dong"@en ;
+    onto:entityLabel "Dong" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Socher,
+        local:W .
+
+local:Doron a onto:Person ;
+    rdfs:label "Doron"@en ;
+    onto:entityLabel "Doron" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Firoiu .
+
+local:Drew a onto:Person ;
+    rdfs:label "Drew"@en ;
+    onto:entityLabel "Drew" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Du a onto:Entity ;
+    rdfs:label "Du"@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Neyshabur .
+
+local:Ehinger a onto:Person ;
+    rdfs:label "Ehinger"@en ;
+    onto:entityLabel "Ehinger" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Oliva .
+
+local:Farhi a onto:Person ;
+    rdfs:label "Farhi"@en ;
+    onto:entityLabel "Farhi" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:FischerQ .
+
+local:Fern a onto:Person ;
+    rdfs:label "Fern"@en ;
+    onto:entityLabel "Fern" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2017 .
+
+local:Firoiu a onto:Person ;
+    rdfs:label "Firoiu"@en ;
+    onto:entityLabel "Firoiu" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Harley .
+
+local:FischerQ a onto:Organization ;
+    rdfs:label "Fischer, Q."@en ;
+    onto:entityLabel "Fischer, Q." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Hashme .
+
+local:FreemanWt a onto:Organization ;
+    rdfs:label "Freeman, W.T."@en ;
+    onto:entityLabel "Freeman, W.T." ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2000 .
+
+local:Fried a onto:Person ;
+    rdfs:label "Fried"@en ;
+    onto:entityLabel "Fried" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2005,
+        local:2008,
+        local:2009 .
+
+local:Gabe a onto:Person ;
+    rdfs:label "Gabe"@en ;
+    onto:entityLabel "Gabe" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:AlecRadford .
+
+local:Gabriel a onto:Person ;
+    rdfs:label "Gabriel"@en ;
+    onto:entityLabel "Gabriel" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:NickCammarata,
+        local:Olah .
+
+local:GabrielGoh a onto:Person ;
+    rdfs:label "Gabriel Goh"@en ;
+    onto:entityLabel "Gabriel Goh" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Weekly .
+
+local:Gaina a onto:Person ;
+    rdfs:label "Gaina"@en ;
+    onto:entityLabel "Gaina" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Rd .
+
+local:Gaurav a onto:Person ;
+    rdfs:label "Gaurav"@en ;
+    onto:entityLabel "Gaurav" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:2021 .
+
+local:GauravAggarwal a onto:Person ;
+    rdfs:label "Gaurav Aggarwal"@en ;
+    onto:entityLabel "Gaurav Aggarwal" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Github a onto:Organization ;
+    rdfs:label "GitHub"@en ;
+    onto:entityLabel "GitHub" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Gomez a onto:Person ;
+    rdfs:label "Gomez"@en ;
+    onto:entityLabel "Gomez" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:KaiserL .
+
+local:Goodfellow a onto:Person ;
+    rdfs:label "Goodfellow"@en ;
+    onto:entityLabel "Goodfellow" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Fergus .
+
+local:GoogleResearch a onto:Organization ;
+    rdfs:label "Google Research"@en ;
+    onto:entityLabel "Google Research" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:GretchenKrueger a onto:Person ;
+    rdfs:label "Gretchen Krueger"@en ;
+    onto:entityLabel "Gretchen Krueger" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:BriceMenard .
+
+local:Greydanus a onto:Person ;
+    rdfs:label "Greydanus"@en ;
+    onto:entityLabel "Greydanus" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Koul .
+
+local:Gupta a onto:Person ;
+    rdfs:label "Gupta"@en ;
+    onto:entityLabel "Gupta" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Kayastha .
+
+local:H a onto:Entity ;
+    rdfs:label "H."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Crespi .
+
+local:Hallacy a onto:Person ;
+    rdfs:label "Hallacy"@en ;
+    onto:entityLabel "Hallacy" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Ramesh .
+
+local:Harley a onto:Person ;
+    rdfs:label "Harley"@en ;
+    onto:entityLabel "Harley" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Dunning .
+
+local:Harper a onto:Person ;
+    rdfs:label "Harper"@en ;
+    onto:entityLabel "Harper" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Henry .
+
+local:Hashme a onto:Person ;
+    rdfs:label "Hashme"@en ;
+    onto:entityLabel "Hashme" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:HesseC .
+
+local:Hays a onto:Person ;
+    rdfs:label "Hays"@en ;
+    onto:entityLabel "Hays" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:J .
+
+local:Hendrycks a onto:Person ;
+    rdfs:label "Hendrycks"@en ;
+    onto:entityLabel "Hendrycks" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Ilyas .
+
+local:Henry a onto:Person ;
+    rdfs:label "Henry"@en ;
+    onto:entityLabel "Henry" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:H .
+
+local:Hercig a onto:Person ;
+    rdfs:label "Hercig"@en ;
+    onto:entityLabel "Hercig" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2017 .
+
+local:HesseC a onto:Organization ;
+    rdfs:label "Hesse, C."@en ;
+    onto:entityLabel "Hesse, C." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Hooker a onto:Person ;
+    rdfs:label "Hooker"@en ;
+    onto:entityLabel "Hooker" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Adebayo .
+
+local:Hsu a onto:Person ;
+    rdfs:label "Hsu"@en ;
+    onto:entityLabel "Hsu" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:D .
+
+local:Ibrahim a onto:Person ;
+    rdfs:label "Ibrahim"@en ;
+    onto:entityLabel "Ibrahim" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Pal .
+
+local:IeeeComputerSociety a onto:Organization ;
+    rdfs:label "IEEE computer society"@en ;
+    onto:entityLabel "IEEE computer society" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Isola a onto:Person ;
+    rdfs:label "Isola"@en ;
+    onto:entityLabel "Isola" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Jacob a onto:Person ;
+    rdfs:label "Jacob"@en ;
+    onto:entityLabel "Jacob" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Cammarata .
+
+local:JacobJackson a onto:Person ;
+    rdfs:label "Jacob Jackson"@en ;
+    onto:entityLabel "Jacob Jackson" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:MichaelLittman .
+
+local:JeffClune a onto:Person ;
+    rdfs:label "Jeff Clune"@en ;
+    onto:entityLabel "Jeff Clune" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:SteveDowling .
+
+local:Jia a onto:Person ;
+    rdfs:label "Jia"@en ;
+    onto:entityLabel "Jia" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Sermanet .
+
+local:Jiang a onto:Person ;
+    rdfs:label "Jiang"@en ;
+    onto:entityLabel "Jiang" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Du .
+
+local:JoelLehman a onto:Person ;
+    rdfs:label "Joel Lehman"@en ;
+    onto:entityLabel "Joel Lehman" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:JohnSchulman a onto:Person ;
+    rdfs:label "John Schulman"@en ;
+    onto:entityLabel "John Schulman" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:IlyaSutskever .
+
+local:JohnsonIAndOlah a onto:Organization ;
+    rdfs:label "Johnson, I. and Olah"@en ;
+    onto:entityLabel "Johnson, I. and Olah" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Joo a onto:Person ;
+    rdfs:label "Joo"@en ;
+    onto:entityLabel "Joo" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Jordan a onto:Person ;
+    rdfs:label "Jordan"@en ;
+    onto:entityLabel "Jordan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:AbbeelP .
+
+local:JorgeOrbay a onto:Person ;
+    rdfs:label "Jorge Orbay"@en ;
+    onto:entityLabel "Jorge Orbay" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:AlexRay .
+
+local:JournalOfExperimentalPsychology a onto:Organization ;
+    rdfs:label "Journal of experimental psychology"@en ;
+    onto:entityLabel "Journal of experimental psychology" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:K a onto:Entity ;
+    rdfs:label "K."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Klimov .
+
+local:KaiserL a onto:Organization ;
+    rdfs:label "Kaiser, L."@en ;
+    onto:entityLabel "Kaiser, L." ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Polosukhin .
+
+local:Kalai a onto:Person ;
+    rdfs:label "Kalai"@en ;
+    onto:entityLabel "Kalai" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2016 .
+
+local:Karlen a onto:Person ;
+    rdfs:label "Karlen"@en ;
+    onto:entityLabel "Karlen" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:M .
+
+local:Kavukcuoglu a onto:Person ;
+    rdfs:label "Kavukcuoglu"@en ;
+    onto:entityLabel "Kavukcuoglu" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Kuksa .
+
+local:Kayastha a onto:Person ;
+    rdfs:label "Kayastha"@en ;
+    onto:entityLabel "Kayastha" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:D .
+
+local:Khosla a onto:Person ;
+    rdfs:label "Khosla"@en ;
+    onto:entityLabel "Khosla" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Lapedriza,
+        local:Oliva .
+
+local:KonstantinosMitsopoulos a onto:Person ;
+    rdfs:label "Konstantinos Mitsopoulos"@en ;
+    onto:entityLabel "Konstantinos Mitsopoulos" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:MiraMurati .
+
+local:Koul a onto:Person ;
+    rdfs:label "Koul"@en ;
+    onto:entityLabel "Koul" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Dodge .
+
+local:Kraskov a onto:Person ;
+    rdfs:label "Kraskov"@en ;
+    onto:entityLabel "Kraskov" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Koch .
+
+local:Krishnamurthy a onto:Person ;
+    rdfs:label "Krishnamurthy"@en ;
+    onto:entityLabel "Krishnamurthy" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:B .
+
+local:Krueger a onto:Person ;
+    rdfs:label "Krueger"@en ;
+    onto:entityLabel "Krueger" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Sutskever .
+
+local:Kuksa a onto:Person ;
+    rdfs:label "Kuksa"@en ;
+    onto:entityLabel "Kuksa" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2011 .
+
+local:Kwok a onto:Person ;
+    rdfs:label "Kwok"@en ;
+    onto:entityLabel "Kwok" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2017 .
+
+local:Laine a onto:Person ;
+    rdfs:label "Laine"@en ;
+    onto:entityLabel "Laine" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Aila .
+
+local:Lange a onto:Person ;
+    rdfs:label "Lange"@en ;
+    onto:entityLabel "Lange" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:D .
+
+local:Lapedriza a onto:Person ;
+    rdfs:label "Lapedriza"@en ;
+    onto:entityLabel "Lapedriza" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Oliva .
+
+local:LehmanJ a onto:Organization ;
+    rdfs:label "Lehman, J."@en ;
+    onto:entityLabel "Lehman, J." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2018 .
+
+local:Lever a onto:Person ;
+    rdfs:label "Lever"@en ;
+    onto:entityLabel "Lever" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Castaneda .
+
+local:Levine a onto:Person ;
+    rdfs:label "Levine"@en ;
+    onto:entityLabel "Levine" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Jordan .
+
+local:Liang a onto:Person ;
+    rdfs:label "Liang"@en ;
+    onto:entityLabel "Liang" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Ma .
+
+local:LiangZhang a onto:Person ;
+    rdfs:label "Liang Zhang"@en ;
+    onto:entityLabel "Liang Zhang" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:DanielZiegler .
+
+local:Liebana a onto:Person ;
+    rdfs:label "Liebana"@en ;
+    onto:entityLabel "Liebana" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Liu .
+
+local:Litwin a onto:Person ;
+    rdfs:label "Litwin"@en ;
+    onto:entityLabel "Litwin" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Mcgrew .
+
+local:LosAngeles a onto:GeopoliticalEntity ;
+    rdfs:label "Los Angeles"@en ;
+    onto:entityLabel "Los Angeles" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Ca .
+
+local:Lucas a onto:Person ;
+    rdfs:label "Lucas"@en ;
+    onto:entityLabel "Lucas" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Sm .
+
+local:Ludwig a onto:Person ;
+    rdfs:label "Ludwig"@en ;
+    onto:entityLabel "Ludwig" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Radford .
+
+local:LudwigSchubert a onto:Person ;
+    rdfs:label "Ludwig Schubert"@en ;
+    onto:entityLabel "Ludwig Schubert" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:JohnSchulman .
+
+local:Madhavan a onto:Person ;
+    rdfs:label "Madhavan"@en ;
+    onto:entityLabel "Madhavan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Liu .
+
+local:Makelov a onto:Person ;
+    rdfs:label "Makelov"@en ;
+    onto:entityLabel "Makelov" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Schmidt .
+
+local:Mandal a onto:Person ;
+    rdfs:label "Mandal"@en ;
+    onto:entityLabel "Mandal" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Mane a onto:Person ;
+    rdfs:label "Mané"@en ;
+    onto:entityLabel "Mané" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:D .
+
+local:Marris a onto:Person ;
+    rdfs:label "Marris"@en ;
+    onto:entityLabel "Marris" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Lever .
+
+local:Marsella a onto:Person ;
+    rdfs:label "Marsella"@en ;
+    onto:entityLabel "Marsella" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Martinez .
+
+local:Martin a onto:Person ;
+    rdfs:label "Martin"@en ;
+    onto:entityLabel "Martin" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Wattenberg .
+
+local:Martinez a onto:Person ;
+    rdfs:label "Martinez"@en ;
+    onto:entityLabel "Martinez" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Pollak .
+
+local:Mcgrew a onto:Person ;
+    rdfs:label "McGrew"@en ;
+    onto:entityLabel "McGrew" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Petron .
+
+local:Michael a onto:Person ;
+    rdfs:label "Michael"@en ;
+    onto:entityLabel "Michael" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Ludwig .
+
+local:MichaelLittman a onto:Person ;
+    rdfs:label "Michael Littman"@en ;
+    onto:entityLabel "Michael Littman" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:BenMillwood .
+
+local:MiraMurati a onto:Person ;
+    rdfs:label "Mira Murati"@en ;
+    onto:entityLabel "Mira Murati" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:JorgeOrbay .
+
+local:Mishkin a onto:Person ;
+    rdfs:label "Mishkin"@en ;
+    onto:entityLabel "Mishkin" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Clark .
+
+local:Mnih a onto:Person ;
+    rdfs:label "Mnih"@en ;
+    onto:entityLabel "Mnih" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Ward .
+
+local:Morcos a onto:Person ;
+    rdfs:label "Morcos"@en ;
+    onto:entityLabel "Morcos" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:As .
+
+local:Moritz a onto:Person ;
+    rdfs:label "Moritz"@en ;
+    onto:entityLabel "Moritz" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Levine .
+
+local:Muller a onto:Person ;
+    rdfs:label "Muller"@en ;
+    onto:entityLabel "Muller" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Dahne .
+
+local:Munos a onto:Person ;
+    rdfs:label "Munos"@en ;
+    onto:entityLabel "Munos" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Simonyan .
+
+local:N a onto:Entity ;
+    rdfs:label "N."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Verma .
+
+local:Nakano a onto:Person ;
+    rdfs:label "Nakano"@en ;
+    onto:entityLabel "Nakano" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Nakkiran .
+
+local:Nakkiran a onto:Person ;
+    rdfs:label "Nakkiran"@en ;
+    onto:entityLabel "Nakkiran" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:SanturkarS .
+
+local:NevanWichers a onto:Person ;
+    rdfs:label "Nevan Wichers"@en ;
+    onto:entityLabel "Nevan Wichers" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:LiangZhang .
+
+local:Neyshabur a onto:Person ;
+    rdfs:label "Neyshabur"@en ;
+    onto:entityLabel "Neyshabur" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Nick a onto:Person ;
+    rdfs:label "Nick"@en ;
+    onto:entityLabel "Nick" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Carter .
+
+local:NickCammarata a onto:Person ;
+    rdfs:label "Nick Cammarata†"@en ;
+    onto:entityLabel "Nick Cammarata†" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:ChelseaVoss,
+        local:Coinrun,
+        local:Drew .
+
+local:NickMoran a onto:Person ;
+    rdfs:label "Nick Moran"@en ;
+    onto:entityLabel "Nick Moran" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:Github .
+
+local:Nielsen a onto:Person ;
+    rdfs:label "Nielsen"@en ;
+    onto:entityLabel "Nielsen" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2017 .
+
+local:NyklM a onto:Organization ;
+    rdfs:label "Nykl, M."@en ;
+    onto:entityLabel "Nykl, M." ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Hercig .
+
+local:O a onto:Entity ;
+    rdfs:label "O."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Hesse .
+
+local:OlahC a onto:Organization ;
+    rdfs:label "Olah, C."@en ;
+    onto:entityLabel "Olah, C." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Cammarata,
+        local:PetrovM .
+
+local:Openai a onto:Organization ;
+    rdfs:label "OpenAI"@en ;
+    onto:entityLabel "OpenAI" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI .
+
+local:PainoA a onto:Organization ;
+    rdfs:label "Paino, A."@en ;
+    onto:entityLabel "Paino, A." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Plappert .
+
+local:Pal a onto:Person ;
+    rdfs:label "Pal"@en ;
+    onto:entityLabel "Pal" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Cj .
+
+local:Parikh a onto:Person ;
+    rdfs:label "Parikh"@en ;
+    onto:entityLabel "Parikh" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:D .
+
+local:Parmar a onto:Person ;
+    rdfs:label "Parmar"@en ;
+    onto:entityLabel "Parmar" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Uszkoreit .
+
+local:Petron a onto:Person ;
+    rdfs:label "Petron"@en ;
+    onto:entityLabel "Petron" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:PainoA .
+
+local:PetrovM a onto:Organization ;
+    rdfs:label "Petrov, M."@en ;
+    onto:entityLabel "Petrov, M." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:SchubertL .
+
+local:Plappert a onto:Person ;
+    rdfs:label "Plappert"@en ;
+    onto:entityLabel "Plappert" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Powell .
+
+local:Pollak a onto:Person ;
+    rdfs:label "Pollak"@en ;
+    onto:entityLabel "Pollak" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Polosukhin a onto:Person ;
+    rdfs:label "Polosukhin"@en ;
+    onto:entityLabel "Polosukhin" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2017 .
+
+local:Powell a onto:Person ;
+    rdfs:label "Powell"@en ;
+    onto:entityLabel "Powell" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Ribas .
+
+local:PranavShyam a onto:Person ;
+    rdfs:label "Pranav Shyam"@en ;
+    onto:entityLabel "Pranav Shyam" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:IlyaSutskever .
+
+local:Rabinovich a onto:Person ;
+    rdfs:label "Rabinovich"@en ;
+    onto:entityLabel "Rabinovich" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2015 .
+
+local:Rabinowitz a onto:Person ;
+    rdfs:label "Rabinowitz"@en ;
+    onto:entityLabel "Rabinowitz" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Nc .
+
+local:Ramesh a onto:Person ;
+    rdfs:label "Ramesh"@en ;
+    onto:entityLabel "Ramesh" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Goh .
+
+local:Ravindran a onto:Person ;
+    rdfs:label "Ravindran"@en ;
+    onto:entityLabel "Ravindran" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:Balaraman .
+
+local:Rd a onto:GeopoliticalEntity ;
+    rdfs:label "R.D.,"@en ;
+    onto:entityLabel "R.D.," ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Togelius .
+
+local:Reddy a onto:Person ;
+    rdfs:label "Reddy"@en ;
+    onto:entityLabel "Reddy" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Kreiman .
+
+local:Reed a onto:Person ;
+    rdfs:label "Reed"@en ;
+    onto:entityLabel "Reed" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Anguelov .
+
+local:ReiichiroNakano a onto:Person ;
+    rdfs:label "Reiichiro Nakano"@en ;
+    onto:entityLabel "Reiichiro Nakano" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:AdityaRamesh .
+
+local:Ren a onto:Person ;
+    rdfs:label "Ren"@en ;
+    onto:entityLabel "Ren" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Sun .
+
+local:Ribas a onto:Person ;
+    rdfs:label "Ribas"@en ;
+    onto:entityLabel "Ribas" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Riedmiller a onto:Person ;
+    rdfs:label "Riedmiller"@en ;
+    onto:entityLabel "Riedmiller" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2014 .
+
+local:Risteski a onto:Person ;
+    rdfs:label "Risteski"@en ;
+    onto:entityLabel "Risteski" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2018 .
+
+local:Rm a onto:Person ;
+    rdfs:label "R.M."@en ;
+    onto:entityLabel "R.M." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2017 .
+
+local:Roy a onto:Person ;
+    rdfs:label "Roy"@en ;
+    onto:entityLabel "Roy" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Abadi .
+
+local:Ruderman a onto:Person ;
+    rdfs:label "Ruderman"@en ;
+    onto:entityLabel "Ruderman" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Rust a onto:Person ;
+    rdfs:label "Rust"@en ;
+    onto:entityLabel "Rust" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Nc .
+
+local:Saligrama a onto:Person ;
+    rdfs:label "Saligrama"@en ;
+    onto:entityLabel "Saligrama" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Kalai .
+
+local:SamGreydanus a onto:Person ;
+    rdfs:label "Sam Greydanus"@en ;
+    onto:entityLabel "Sam Greydanus" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:ChristopherHesse .
+
+local:Santurkar a onto:Person ;
+    rdfs:label "Santurkar"@en ;
+    onto:entityLabel "Santurkar" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Tsipras .
+
+local:SanturkarS a onto:Organization ;
+    rdfs:label "Santurkar, S.,"@en ;
+    onto:entityLabel "Santurkar, S.," ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Tran .
+
+local:Sastry a onto:Person ;
+    rdfs:label "Sastry"@en ;
+    onto:entityLabel "Sastry" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Askell .
+
+local:Satyanarayan a onto:Person ;
+    rdfs:label "Satyanarayan"@en ;
+    onto:entityLabel "Satyanarayan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Johnson .
+
+local:Schmidt a onto:Person ;
+    rdfs:label "Schmidt"@en ;
+    onto:entityLabel "Schmidt" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:L .
+
+local:SchubertL a onto:Organization ;
+    rdfs:label "Schubert, L."@en ;
+    onto:entityLabel "Schubert, L." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2020 .
+
+local:Selvaraju a onto:Person ;
+    rdfs:label "Selvaraju"@en ;
+    onto:entityLabel "Selvaraju" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Cogswell .
+
+local:Sermanet a onto:Person ;
+    rdfs:label "Sermanet"@en ;
+    onto:entityLabel "Sermanet" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Reed .
+
+local:Shan a onto:Person ;
+    rdfs:label "Shan"@en ;
+    onto:entityLabel "Shan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Goh,
+        local:Petrov .
+
+local:ShanCarter a onto:Person ;
+    rdfs:label "Shan Carter"@en ;
+    onto:entityLabel "Shan Carter" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:GabrielGoh,
+        local:Openai .
+
+local:Shazeer a onto:Person ;
+    rdfs:label "Shazeer"@en ;
+    onto:entityLabel "Shazeer" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Parmar .
+
+local:Simonyan a onto:Person ;
+    rdfs:label "Simonyan"@en ;
+    onto:entityLabel "Simonyan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Mnih,
+        local:Vedaldi .
+
+local:Singh a onto:Person ;
+    rdfs:label "Singh"@en ;
+    onto:entityLabel "Singh" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:S .
+
+local:Sm a onto:GeopoliticalEntity ;
+    rdfs:label "S.M."@en ;
+    onto:entityLabel "S.M." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2018 .
+
+local:Soyer a onto:Person ;
+    rdfs:label "Soyer"@en ;
+    onto:entityLabel "Soyer" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Munos .
+
+local:SteveDowling a onto:Person ;
+    rdfs:label "Steve Dowling"@en ;
+    onto:entityLabel "Steve Dowling" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:GretchenKrueger .
+
+local:SujoyPaul a onto:Person ;
+    rdfs:label "Sujoy Paul"@en ;
+    onto:entityLabel "Sujoy Paul" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:AnshKhurana .
+
+local:Sun a onto:Person ;
+    rdfs:label "Sun"@en ;
+    onto:entityLabel "Sun" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2015 .
+
+local:Taly a onto:Person ;
+    rdfs:label "Taly"@en ;
+    onto:entityLabel "Taly" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Yan .
+
+local:TheAssociationForComputationalLinguistics a onto:Organization ;
+    rdfs:label "the Association for Computational Linguistics"@en ;
+    onto:entityLabel "the Association for Computational Linguistics" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:TomBrown a onto:Person ;
+    rdfs:label "Tom Brown"@en ;
+    onto:entityLabel "Tom Brown" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:JeffClune .
+
+local:Torralba a onto:Person ;
+    rdfs:label "Torralba"@en ;
+    onto:entityLabel "Torralba" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2010,
+        local:2014,
+        local:2017 .
+
+local:Twitter a onto:Organization ;
+    rdfs:label "Twitter"@en ;
+    onto:entityLabel "Twitter" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Uszkoreit a onto:Person ;
+    rdfs:label "Uszkoreit"@en ;
+    onto:entityLabel "Uszkoreit" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Gomez .
+
+local:V a onto:Entity ;
+    rdfs:label "V."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Harper .
+
+local:Vanhoucke a onto:Person ;
+    rdfs:label "Vanhoucke"@en ;
+    onto:entityLabel "Vanhoucke" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Rabinovich .
+
+local:Vedantam a onto:Person ;
+    rdfs:label "Vedantam"@en ;
+    onto:entityLabel "Vedantam" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:R .
+
+local:Verma a onto:Person ;
+    rdfs:label "Verma"@en ;
+    onto:entityLabel "Verma" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Gupta .
+
+local:Vincent a onto:Person ;
+    rdfs:label "Vincent"@en ;
+    onto:entityLabel "Vincent" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2009 .
+
+local:Vladu a onto:Person ;
+    rdfs:label "Vladu"@en ;
+    onto:entityLabel "Vladu" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2017 .
+
+local:Wallace a onto:Person ;
+    rdfs:label "Wallace"@en ;
+    onto:entityLabel "Wallace" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2019 .
+
+local:Wang a onto:Person ;
+    rdfs:label "Wang"@en ;
+    onto:entityLabel "Wang" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Castro .
+
+local:Ward a onto:Person ;
+    rdfs:label "Ward"@en ;
+    onto:entityLabel "Ward" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Doron .
+
+local:Wattenberg a onto:Person ;
+    rdfs:label "Wattenberg"@en ;
+    onto:entityLabel "Wattenberg" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Weekly a onto:Date ;
+    rdfs:label "weekly"@en ;
+    onto:entityLabel "weekly" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Weston a onto:Person ;
+    rdfs:label "Weston"@en ;
+    onto:entityLabel "Weston" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:J .
+
+local:Williams a onto:Person ;
+    rdfs:label "Williams"@en ;
+    onto:entityLabel "Williams" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Winn .
+
+local:Winn a onto:Person ;
+    rdfs:label "Winn"@en ;
+    onto:entityLabel "Winn" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Zisserman .
+
+local:Wolski a onto:Person ;
+    rdfs:label "Wolski"@en ;
+    onto:entityLabel "Wolski" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Dhariwal .
+
+local:Yan a onto:Person ;
+    rdfs:label "Yan"@en ;
+    onto:entityLabel "Yan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2017 .
+
+local:Ye a onto:Entity ;
+    rdfs:label "Ye"@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Mordvintsev .
+
+local:Yih a onto:Person ;
+    rdfs:label "Yih"@en ;
+    onto:entityLabel "Yih" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Zweig .
+
+local:Zeiler a onto:Person ;
+    rdfs:label "Zeiler"@en ;
+    onto:entityLabel "Zeiler" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Fergus .
+
+local:Zhou a onto:Person ;
+    rdfs:label "Zhou"@en ;
+    onto:entityLabel "Zhou" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Khosla .
+
+local:Zoccolan a onto:Person ;
+    rdfs:label "Zoccolan"@en ;
+    onto:entityLabel "Zoccolan" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Rust .
+
+local:Zou a onto:Person ;
+    rdfs:label "Zou"@en ;
+    onto:entityLabel "Zou" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Saligrama .
+
+local:Zweig a onto:Person ;
+    rdfs:label "Zweig"@en ;
+    onto:entityLabel "Zweig" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2013 .
+
+local:2010 a onto:Date ;
+    rdfs:label "2010"@en ;
+    onto:entityLabel "2010" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:IeeeComputerSociety .
+
+local:2012 a onto:Date ;
+    rdfs:label "2012"@en ;
+    onto:entityLabel "2012" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Alber a onto:Person ;
+    rdfs:label "Alber"@en ;
+    onto:entityLabel "Alber" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Muller,
+        local:Schutt .
+
+local:Dahne a onto:Person ;
+    rdfs:label "Dahne"@en ;
+    onto:entityLabel "Dahne" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2017,
+        local:Erhan .
+
+local:Dosovitskiy a onto:Person ;
+    rdfs:label "Dosovitskiy"@en ;
+    onto:entityLabel "Dosovitskiy" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Brox,
+        local:Yosinski .
+
+local:Dunning a onto:Person ;
+    rdfs:label "Dunning"@en ;
+    onto:entityLabel "Dunning" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2018,
+        local:Marris .
+
+local:Engstrom a onto:Person ;
+    rdfs:label "Engstrom"@en ;
+    onto:entityLabel "Engstrom" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Gilmer,
+        local:Ilyas,
+        local:Tran .
+
+local:Fergus a onto:Person ;
+    rdfs:label "Fergus"@en ;
+    onto:entityLabel "Fergus" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2013,
+        local:2014,
+        local:R .
+
+local:Gilmer a onto:Person ;
+    rdfs:label "Gilmer"@en ;
+    onto:entityLabel "Gilmer" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Goh,
+        local:J .
+
+local:GoogleResearchIndia a onto:Organization ;
+    rdfs:label "Google Research India"@en ;
+    onto:entityLabel "Google Research India" ;
+    onto:extractedFrom "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI .
+
+local:Hesse a onto:Person ;
+    rdfs:label "Hesse"@en ;
+    onto:entityLabel "Hesse" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:C,
+        local:Hilton .
+
+local:Hilton a onto:Person ;
+    rdfs:label "Hilton"@en ;
+    onto:entityLabel "Hilton" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Distill,
+        local:Jacob,
+        local:Schulman .
+
+local:IlyaSutskever a onto:Person ;
+    rdfs:label "Ilya Sutskever"@en ;
+    onto:entityLabel "Ilya Sutskever" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Martin,
+        local:NevanWichers .
+
+local:Ilyas a onto:Person ;
+    rdfs:label "Ilyas"@en ;
+    onto:entityLabel "Ilyas" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Kwok,
+        local:Madry,
+        local:Santurkar .
+
+local:Johnson a onto:Person ;
+    rdfs:label "Johnson"@en ;
+    onto:entityLabel "Johnson" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2015,
+        local:Carter .
+
+local:Khalifa a onto:Person ;
+    rdfs:label "Khalifa"@en ;
+    onto:entityLabel "Khalifa" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:A,
+        local:Berges .
+
+local:Klimov a onto:Person ;
+    rdfs:label "Klimov"@en ;
+    onto:entityLabel "Klimov" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2017,
+        local:O .
+
+local:Koch a onto:Person ;
+    rdfs:label "Koch"@en ;
+    onto:entityLabel "Koch" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Fried .
+
+local:Kreiman a onto:Person ;
+    rdfs:label "Kreiman"@en ;
+    onto:entityLabel "Kreiman" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Koch .
+
+local:Ma a onto:Entity ;
+    rdfs:label "Ma"@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Mandal,
+        local:Risteski .
+
+local:Mordvintsev a onto:Person ;
+    rdfs:label "Mordvintsev"@en ;
+    onto:entityLabel "Mordvintsev" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2018,
+        local:Olah,
+        local:Schubert .
+
+local:Nc a onto:GeopoliticalEntity ;
+    rdfs:label "N.C."@en ;
+    onto:entityLabel "N.C." ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2012,
+        local:Morcos .
+
+local:Radford a onto:Person ;
+    rdfs:label "Radford"@en ;
+    onto:entityLabel "Radford" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Alec,
+        local:Kim,
+        local:Klimov .
+
+local:S a onto:Entity ;
+    rdfs:label "S."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2019,
+        local:Krishnamurthy .
+
+local:Schulman a onto:Person ;
+    rdfs:label "Schulman"@en ;
+    onto:entityLabel "Schulman" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:2018,
+        local:2019,
+        local:Moritz,
+        local:Wolski .
+
+local:Schutt a onto:Person ;
+    rdfs:label "Schutt"@en ;
+    onto:entityLabel "Schutt" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Alber,
+        local:Dahne .
+
+local:Socher a onto:Person ;
+    rdfs:label "Socher"@en ;
+    onto:entityLabel "Socher" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Li,
+        local:R .
+
+local:Togelius a onto:Person ;
+    rdfs:label "Togelius"@en ;
+    onto:entityLabel "Togelius" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Lange,
+        local:Lucas .
+
+local:Tran a onto:Person ;
+    rdfs:label "Tran"@en ;
+    onto:entityLabel "Tran" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Madry,
+        local:Tsipras .
+
+local:Tyka a onto:Person ;
+    rdfs:label "Tyka"@en ;
+    onto:entityLabel "Tyka" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2015,
+        local:M .
+
+local:Vedaldi a onto:Person ;
+    rdfs:label "Vedaldi"@en ;
+    onto:entityLabel "Vedaldi" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2017,
+        local:Zisserman .
+
+local:W a onto:Entity ;
+    rdfs:label "W."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:Socher,
+        local:Sutskever .
+
+local:Zaremba a onto:Person ;
+    rdfs:label "Zaremba"@en ;
+    onto:entityLabel "Zaremba" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Sutskever,
+        local:W .
+
+local:Zisserman a onto:Person ;
+    rdfs:label "Zisserman"@en ;
+    onto:entityLabel "Zisserman" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2010,
+        local:2013 .
+
+local:2009 a onto:Date ;
+    rdfs:label "2009"@en ;
+    onto:entityLabel "2009" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:2014 a onto:Date ;
+    rdfs:label "2014"@en ;
+    onto:entityLabel "2014" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:A a onto:Entity ;
+    rdfs:label "A."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Gaina,
+        local:Vedantam,
+        local:Yosinski .
+
+local:C a onto:Entity ;
+    rdfs:label "C."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Kim,
+        local:Tyka,
+        local:Zaremba .
+
+local:Cammarata a onto:Person ;
+    rdfs:label "Cammarata"@en ;
+    onto:entityLabel "Cammarata" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Nick,
+        local:Schubert .
+
+local:Distill a onto:Organization ;
+    rdfs:label "Distill"@en ;
+    onto:entityLabel "Distill" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI,
+        "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:2020,
+        local:2021 .
+
+local:Kim a onto:Person ;
+    rdfs:label "Kim"@en ;
+    onto:entityLabel "Kim" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2019,
+        local:Hallacy,
+        local:Schulman .
+
+local:L a onto:Entity ;
+    rdfs:label "L."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Karlen,
+        local:Soyer,
+        local:Tsipras .
+
+local:Liu a onto:Person ;
+    rdfs:label "Liu"@en ;
+    onto:entityLabel "Liu" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI ;
+    onto:relatedTo local:J,
+        local:Jia,
+        local:Wang .
+
+local:Madry a onto:Person ;
+    rdfs:label "Madry"@en ;
+    onto:entityLabel "Madry" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2019,
+        local:2020,
+        local:Makelov,
+        local:Nakano .
+
+local:Oliva a onto:Person ;
+    rdfs:label "Oliva"@en ;
+    onto:entityLabel "Oliva" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Torralba .
+
+local:Petrov a onto:Person ;
+    rdfs:label "Petrov"@en ;
+    onto:entityLabel "Petrov" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Carter,
+        local:Michael,
+        local:Olah .
+
+local:R a onto:Entity ;
+    rdfs:label "R."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2013,
+        local:Li,
+        local:Parikh .
+
+local:Sutskever a onto:Person ;
+    rdfs:label "Sutskever"@en ;
+    onto:entityLabel "Sutskever" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2021,
+        local:Bruna .
+
+local:Tsipras a onto:Person ;
+    rdfs:label "Tsipras"@en ;
+    onto:entityLabel "Tsipras" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:D,
+        local:Madry,
+        local:Wallace .
+
+local:Yosinski a onto:Person ;
+    rdfs:label "Yosinski"@en ;
+    onto:entityLabel "Yosinski" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2016,
+        local:Clune,
+        local:J .
+
+local:2013 a onto:Date ;
+    rdfs:label "2013"@en ;
+    onto:entityLabel "2013" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:TheAssociationForComputationalLinguistics .
+
+local:2016 a onto:Date ;
+    rdfs:label "2016"@en ;
+    onto:entityLabel "2016" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:2021 a onto:Date ;
+    rdfs:label "2021"@en ;
+    onto:entityLabel "2021" ;
+    onto:extractedFrom "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI,
+        "https://distill.pub/2021/understanding-gnns/"^^xsd:anyURI ;
+    onto:relatedTo local:Goh .
+
+local:Bengio a onto:Person ;
+    rdfs:label "Bengio"@en ;
+    onto:entityLabel "Bengio" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Courville,
+        local:Dosovitskiy .
+
+local:Clune a onto:Person ;
+    rdfs:label "Clune"@en ;
+    onto:entityLabel "Clune" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2015,
+        local:Bengio,
+        local:J,
+        local:LehmanJ .
+
+local:Erhan a onto:Person ;
+    rdfs:label "Erhan"@en ;
+    onto:entityLabel "Erhan" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Bengio,
+        local:D,
+        local:Kim .
+
+local:M a onto:Entity ;
+    rdfs:label "M."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2015,
+        local:Das,
+        local:Hsu,
+        local:Kavukcuoglu .
+
+local:Carter a onto:Person ;
+    rdfs:label "Carter"@en ;
+    onto:entityLabel "Carter" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2020,
+        local:Nielsen,
+        local:Schubert,
+        local:Shan .
+
+local:Li a onto:Entity ;
+    rdfs:label "Li"@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2009,
+        local:Li,
+        local:Liang,
+        local:Schubert .
+
+local:Schubert a onto:Person ;
+    rdfs:label "Schubert"@en ;
+    onto:entityLabel "Schubert" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2017,
+        local:BellemareM,
+        local:Goh,
+        local:JohnsonIAndOlah,
+        local:Petrov,
+        local:Ye .
+
+local:2020 a onto:Date ;
+    rdfs:label "2020"@en ;
+    onto:entityLabel "2020" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Hilton .
+
+local:Olah a onto:Person ;
+    rdfs:label "Olah"@en ;
+    onto:entityLabel "Olah" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2015,
+        local:2020,
+        local:C,
+        local:Cammarata,
+        local:Chris,
+        local:Mordvintsev,
+        local:Satyanarayan,
+        local:Tyka .
+
+onto:GeopoliticalEntity a owl:Class ;
+    rdfs:label "GeopoliticalEntity"@en ;
+    rdfs:comment "A country, city, or region"@en ;
+    rdfs:subClassOf schema:Place .
+
+local:2018 a onto:Date ;
+    rdfs:label "2018"@en ;
+    onto:entityLabel "2018" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:Goh a onto:Person ;
+    rdfs:label "Goh"@en ;
+    onto:entityLabel "Goh" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Agarwal,
+        local:Carter,
+        local:Distill,
+        local:Gabriel,
+        local:Hendrycks,
+        local:OlahC,
+        local:Petrov .
+
+local:J a onto:Entity ;
+    rdfs:label "J."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2016,
+        local:2017,
+        local:Bengio,
+        local:Bottou,
+        local:Clune,
+        local:Ehinger,
+        local:Erhan,
+        local:Hays,
+        local:Khalifa .
+
+local:2015 a onto:Date ;
+    rdfs:label "2015"@en ;
+    onto:entityLabel "2015" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+local:D a onto:Entity ;
+    rdfs:label "D."@en ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:2017,
+        local:2019,
+        local:Batra,
+        local:Bengio,
+        local:Deshmukh,
+        local:Engstrom,
+        local:Goodfellow,
+        local:Ma,
+        local:Roy,
+        local:Vanhoucke,
+        local:Vladu .
+
+local:2017 a onto:Date ;
+    rdfs:label "2017"@en ;
+    onto:entityLabel "2017" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI ;
+    onto:relatedTo local:Belkin .
+
+local:2019 a onto:Date ;
+    rdfs:label "2019"@en ;
+    onto:entityLabel "2019" ;
+    onto:extractedFrom "https://distill.pub/2020/understanding-rl-vision/"^^xsd:anyURI,
+        "https://distill.pub/2021/multimodal-neurons/"^^xsd:anyURI .
+
+onto:Date a owl:Class ;
+    rdfs:label "Date"@en ;
+    rdfs:comment "A temporal reference"@en .
+
+onto:Organization a owl:Class ;
+    rdfs:label "Organization"@en ;
+    rdfs:comment "A company, university, or research lab"@en ;
+    rdfs:subClassOf schema:Organization .
+
+onto:Person a owl:Class ;
+    rdfs:label "Person"@en ;
+    rdfs:comment "A human individual"@en ;
+    rdfs:subClassOf schema:Person .
+

@@ -1,0 +1,30 @@
+@prefix onto: <http://ai-kb.local/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+
+onto:affiliatedWith a owl:ObjectProperty ;
+    rdfs:label "affiliatedWith"@en ;
+    rdfs:comment "affiliatedWith ≡ wdt:P1416 (affiliation)"@en ;
+    owl:equivalentProperty wdt:P1416 .
+
+onto:authorOf a owl:ObjectProperty ;
+    rdfs:label "authorOf"@en ;
+    rdfs:comment "authorOf ≡ wdt:P50 (author) — inverse of the standard property"@en ;
+    owl:equivalentProperty wdt:P50 .
+
+onto:locatedIn a owl:ObjectProperty ;
+    rdfs:label "locatedIn"@en ;
+    rdfs:comment "locatedIn ≡ wdt:P17 (country) for organizations"@en ;
+    owl:equivalentProperty wdt:P17 .
+
+onto:relatedTo a owl:ObjectProperty ;
+    rdfs:label "relatedTo"@en ;
+    rdfs:comment "co-occurrence extraction → generic relation, sub-property of P1659"@en ;
+    rdfs:subPropertyOf wdt:P1659 .
+
+onto:worksAt a owl:ObjectProperty ;
+    rdfs:label "worksAt"@en ;
+    rdfs:comment "worksAt ≡ wdt:P108 (employer)"@en ;
+    owl:equivalentProperty wdt:P108 .
+

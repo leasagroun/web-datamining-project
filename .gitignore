@@ -1,0 +1,7 @@
+__pycache__/ 
+*.pyc 
+.ipynb_checkpoints/ 
+notebooks/output/kge/results/ 
+notebooks/output/wikidata_cache.json 
+notebooks/output/expansion_cache.json 
+notebooks/output/kge/subsets/ 
